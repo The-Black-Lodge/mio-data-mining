@@ -1,0 +1,8 @@
+ITEM_NAME_UNLOCK:BLOCK,Dodge,Esquive,Ausweichen,Schivata,Esquivar,Esquiva,Esquivar,Unik,Уклонение,閃避,闪避,회피,回避,Ухилення,Savunma
+ITEM_NAME_UNLOCK:GLIDE,Sail,Voile,Segel,Vela,Vela,Levitación,Vela,Żagiel,Парус,滑翔,滑翔翼,돛,セイリング,Вітрило,Yelken
+ITEM_NAME_UNLOCK:HIT_RECHARGE,Harvester,Récolteuse,Ernter,Raccoglitore,Cosechador,Cosechadora,Colheitadeira,Żniwiarz,Коллектор,收割器,收割者,수확기,ハーベスター,Збирач,Toplayıcı
+ITEM_NAME_UNLOCK:HOOK,Hairpin,Épingle,Haarnadel,Forcina,Horquilla,Horquilla,Grampo de cabelo,Spinka,Шпилька,髮簪,发夹,머리핀,ヘアピン,Шпилька,Toka
+ITEM_NAME_UNLOCK:MAP,Navigation Circuit,Circuit de navigation,Navigationsschaltkreis,Circuito di navigazione,Circuito de navegación,Circuito de navegación,Circuito de navegação,Obwód nawigacji,Навигационная схема,導航電路,导航电路,항해 회로,ナビゲーション回路,Навігаційна схема,Navigasyon Devresi
+ITEM_NAME_UNLOCK:ORB_SHOOT,Slingshot,Fronde,Schleuder,Fionda,Honda,Catapulta,Estilingue,Proca,Праща,彈弓,弹弓,새총,スリングショット,Рогатка,Sapan
+ITEM_NAME_UNLOCK:SPIDER,Striders,Flâneuses,Streicher,Granpasso,Caminantes,Escaladores,Marchadores,Łaziki,Стенолаз,蛛行,神行步,소금쟁이,ストライダー,Блукачі,Dokunaçlar
+ITEM_NAME_UNLOCK:SPIDER_GOO,Flowing Steps,Flotteuses,Fließende Schritte,Passi fluidi,Pasos fluidos,Pasos Fluidos,Passos fluidos,Nartnik,Плавные шаги,水行,踏水步,물결 걸음,フローイング・ステップ,Легкий крок,Akıcı Adımlar

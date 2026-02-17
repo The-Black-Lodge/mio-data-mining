@@ -1,0 +1,3 @@
+ITEM_NAME_RESOURCE:EXTRA_SHIELDS,Coating Component,Composant de revêtement,Mantelkomponente,Componente protettivo,Componente de recubrimiento,Componente de recubrimiento,Componente de revestimento,Komponent Powłoki,Защитный компонент,塗層零件,镀层部件,코팅 부품,コーティング部品,Компонент покриття,Kaplama Malzemesi
+ITEM_NAME_RESOURCE:FULL_PEARLS,Old Core,Vieux processeur,Alter Kern,Vecchio nucleo,Núcleo antiguo,Núcleo antiguo,Núcleo antigo,Stary rdzeń,Старое ядро,舊核心,老旧核心,낡은 코어,古びたコア,Старе ядро,Eski Çekirdek
+ITEM_NAME_RESOURCE:PEARL_SHARDS,Nacre Droplets,Gouttes de nacre,Perlmutt-Tröpfchen,Gocce di madreperla,Gotas de nácar,Gotas de nácar,Gotas de Madrepérola,Krople Masy perłowej,Капли перламутра,珍珠母液滴,母贝液滴,자개 방울,ナクレの雫,Краплі перламутру,Sedef Damlacıkları

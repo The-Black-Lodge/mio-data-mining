@@ -1,0 +1,1 @@
+ITEM_NAME_TRINKET_SLOT_UPGRADE,Modifier Extension,Extension de modificateurs,Mod-Erweiterung,Estensione modificatore,Extensión de modificador,Extensión de modificaciones,Extensor de modificadores,Rozszerzenie modyfikatora,Модификаторное расширение,擴充調整裝置,调整元件扩展,변형 요소 확장,モッド拡張,Розширення модифікаторів,Modifikasyon İlavesi

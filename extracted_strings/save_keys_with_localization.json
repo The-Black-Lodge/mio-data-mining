@@ -1,0 +1,93 @@
+{
+  "HUB_TUNER": [
+    "AMYTIS",
+    "ASMA",
+    "HALYN",
+    "LIHO"
+  ],
+  "KEY": [
+    "BELL_TOWER_PASS_CITY",
+    "CRUCIBLE_CRYSTAL",
+    "CRUCIBLE_GLOOMWATER",
+    "FINGER_WHEEL",
+    "GLASSHOUSE_KEY",
+    "LURA",
+    "MAINTENANCE_KEY",
+    "ROOTS_CORRIDOR",
+    "SPIDY_KEY",
+    "SPINE_FRAGMENT"
+  ],
+  "RESOURCE": [
+    "EXTRA_SHIELDS",
+    "FULL_PEARLS",
+    "PEARL_SHARDS"
+  ],
+  "SHOP_UPGRADE": [
+    "GIFT",
+    "MEL",
+    "T2",
+    "T3",
+    "TRINKET"
+  ],
+  "TRINKET": [
+    "ALEXANDERS_FATE",
+    "ANALYZER",
+    "BERSERKER",
+    "BETTER_DODGE",
+    "BIG_ENERGY_DRAIN",
+    "CARLO_HOOK",
+    "COUNTER_ATTACK",
+    "DAREDEVIL",
+    "DECOY",
+    "DOUBLE_DAMAGES",
+    "DRY_FOUNTAINS",
+    "ENERGY_EMPTY_ATTACK",
+    "FAST_RECOVERY",
+    "FOUNTAIN_OVERLOAD",
+    "GLASS_CANNON",
+    "GLIDE_BERSERKER",
+    "GLIDE_STATIC",
+    "GOO_REVENGE",
+    "HEAL_GROUND",
+    "HEAVY_ATTACK",
+    "HOOK_BERSERKER",
+    "HOOK_SLASH",
+    "HUD",
+    "KINETIC_CONVERSION",
+    "KURO_CHARM",
+    "LAST_CHANCE",
+    "LESS_SCRAPS",
+    "LOOT_SUPER_SCRAPS",
+    "MAINTENANCE_EXPERT",
+    "MORE_SCRAPS",
+    "ORB_BLOCK",
+    "ORB_RECOVERY",
+    "PACIFIC",
+    "QUICK_RECHARGE",
+    "SCRAP_ATTACK",
+    "SHIELD_DEC",
+    "SHIELD_INC",
+    "SLOW_ENERGY",
+    "SPIDER_BERSERKER",
+    "STAGGER_ATTACK",
+    "TURBO_GLIDE",
+    "VAMPIRE"
+  ],
+  "UNLOCK": [
+    "BLOCK",
+    "GLIDE",
+    "HIT_RECHARGE",
+    "HOOK",
+    "MAP",
+    "ORB_SHOOT",
+    "SPIDER",
+    "SPIDER_GOO"
+  ],
+  "VOICE": [
+    "AMYTIS",
+    "ASMA",
+    "HALYN",
+    "LIHO",
+    "NODEN"
+  ]
+}

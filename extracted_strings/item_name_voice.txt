@@ -1,0 +1,6 @@
+ITEM_NAME_VOICE:AMYTIS,Amytis' Voice,Voix d’Amytis,Amytis’ Stimme,Voce di Amytis,La Voz de Amitis,La Voz de Amitis,Voz de Amytis,Głos Amytisa,Голос Амитиса,Amytis 的聲音,艾米迪斯之「声」,아미티스의 목소리,アミティスのボイス,Голос Амітис,Amytis'in Sesi
+ITEM_NAME_VOICE:ASMA,Asma's Voice,Voix d’Asma,Asmas Stimme,Voce di Asma,La voz de Asma,La Voz de Asma,Voz da Asma,Głos Asmy,Голос Азмы,Asma 的聲音,阿丝玛之「声」,아스마의 목소리,アスマのボイス,Голос Асми,Asma'nın Sesi
+ITEM_NAME_VOICE:HALYN,Halyn's Voice,Voix de Halyn,Halyns Stimme,Voce di Halyn,La Voz de Halyn,La Voz de Halyn,Voz da Halyn,Głos Halyn,Голос Халин,Halyn 的聲音,海琳之「声」,헤일린의 목소리,ハリンのボイス,Голос Галін,Halyn'in Sesi
+ITEM_NAME_VOICE:KHLIA,Khlia's Voice,Voix de Khlia,Khlias Stimme,Voce di Khlia,La Voz de Khlia,La Voz de Khlia,Voz da Khlia,Głos Khlii,Голос Хлии,Khlia 的聲音,卡莉娅之「声」,킬리아의 목소리,クリアのボイス,Голос Хлії,Khlia'nın Sesi
+ITEM_NAME_VOICE:LIHO,Liho's Voice,Voix de Liho,Lihos Stimme,Voce di Liho,La Voz de Liho,La Voz de Liho,Voz do Liho,Głos Liho,Голос Лихо,Liho 的聲音,利霍之「声」,리호의 목소리,リホのボイス,Голос Ліо,Liho'nun Sesi
+ITEM_NAME_VOICE:NODEN,Noden's Voice,Voix de Noden,Nodens Stimme,Voce di Noden,La Voz de Noden,La Voz de Noden,Voz do Noden,Głos Nodena,Голос Нодена,Noden 的聲音,诺登之「声」,노덴의 목소리,ノーデンのボイス,Голос Нодена,Noden'ın Sesi
