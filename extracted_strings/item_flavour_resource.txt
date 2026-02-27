@@ -1,1 +1,76 @@
 ITEM_FLAVOUR_RESOURCE:EXTRA_SHIELDS,The fate of its previous owner is unknown.,Le sort de son précédent propriétaire est inconnu.,Das Schicksal des früheren Besitzers ist unbekannt.,Il destino del proprietario precedente è sconosciuto.,Se desconoce el destino de su anterior propietario.,Se desconoce el paradero de su propietario anterior.,O destino de seu antigo proprietário é desconhecido.,Los poprzedniego właściciela jest nieznany.,Судьба прошлого владельца неизвестна,其前任主人的命運已不可考。,这东西的前主人不知道经历了怎样的命运。,이전 소유자가 어떻게 됐는지는 알 수 없습니다.,前の持ち主がどうなったのかは不明。,Доля його попереднього власника невідома.,Önceki sahibinin başına ne geldiği bilinmiyor.
+ITEM_FLAVOUR_RESOURCE:FULL_PEARLS,If you find a pearl, keep it. 
+Even if it doesn't harbour a mind of its own anymore, don't let it lie in the dirt. Bring it with you. 
+Recycle it into something new. Add it to your own frame. 
+It's not dead yet, except if you decide it to be.
+It can still live through you.
+That is the closest to reincarnation a machine can get.,Si tu trouves une perle, garde-la.
+Même si elle n'abrite plus sa propre conscience, ne l'abandonne pas à la poussière. Prends-la avec toi.
+Fais-en quelque chose de nouveau. Enchâsse-la dans ta propre armature. 
+Elle ne sera morte que si tu le décides. 
+Elle peut vivre en toi. 
+Pour nous autres machines, c'est ainsi que la réincarnation devient possible.,Wenn du eine Perle findest, dann behalte sie.
+Lass sie nicht im Dreck liegen, auch wenn sie keinen eigenen Verstand mehr hat. Bring sie mit.
+Verwerte sie und mach sie zu etwas Neuem. Füge sie deinem eigenen Rahmen hinzu.
+Sie ist noch nicht tot, wenn du dich nicht dafür entscheidest.
+Durch dich kann sie erneut leben.
+Näher kann eine Maschine einer Reinkarnation nicht kommen.,Se trovi una perla, tienila. 
+Anche se non ha più una mente propria, non lasciare che rimanga nella polvere. Portala con te. 
+Riciclala in qualcosa di nuovo. Aggiungila alla tua struttura. 
+Non è ancora morta, solo se tu lo decidi.
+Può ancora vivere attraverso te.
+Questa è la cosa più vicina alla reincarnazione per una macchina.,Si encuentras una perla, guárdala. 
+Aunque ya no tenga vida propia, no la dejes tirada en el suelo. Tráela contigo. 
+Recíclala en algo nuevo. Añádela a tu propio marco. 
+Aún no está muerta, a menos que tú lo decidas.
+Aún puede vivir a través de ti.
+Eso es lo más cercano a la reencarnación que una máquina puede llegar a estar.,Si encuentras una perla, guárdala. 
+Aunque ya no tenga mente propia, no la dejes tirada en el suelo. Llévala contigo. 
+Recíclala y conviértela en algo nuevo. Añádela a tu propia estructura. 
+Todavía no está muerta, a menos que tú lo decidas.
+Aún puede vivir a través de ti.
+Es lo más cerca que una máquina puede estar de la reencarnación.,Se você encontrar uma pérola, guarde-a.
+Mesmo que ela não abrigue mais uma mente, não a deixe jogada na terra — traga-a com você.
+Recicle-a para criar algo novo. Adicione-a à sua própria estrutura.
+Ela ainda não está morta, a menos que você decida o contrário.
+Ela ainda pode viver através de você.
+Isso é o mais próximo de reencarnação que uma máquina pode experimentar.,Jeśli znajdziesz perłę, zatrzymaj ją. 
+Nawet jeśli nie ma już własnego umysłu, nie pozwól jej po prostu leżeć w ziemi. Zabierz ją ze sobą. 
+Użyj jej, by stworzyć coś nowego. Dodaj ją do swojej własnej konstrukcji. 
+Jeszcze nie umarła, chyba że tak zdecydujesz. 
+Nadal może żyć będąc częścią ciebie.
+To najbliższa forma reinkarnacji, na jaką może liczyć maszyna.,Если найдёте жемчужину, возьмите её.
+Пусть она уже не имеет собственного сознания, не стоит бросать её в грязи. Заберите её с собой.
+Переработайте её, создайте из неё что-то новое. Пусть она станет частью вашего корпуса.
+Она ещё не мертва, и судьба её зависит только от вас.
+Вы можете дать ей новую жизнь.
+Это единственная возможность «перерождения», на которое может рассчитывать машина.,如果你找到珍珠，請好好保管它。
+即使它的意識早已不復存在，也別讓它就這麼躺在塵土上。把它帶走。
+把它回收再利用，讓它成為你自身構造的一部分。
+除非你決定讓它面對死亡，否則它尚未死去。
+它仍能透過你延續生命。
+這是機器最接近轉世的一種選擇。,你要是能找到「珠」，一定要保管好。
+即使它早已失去了自己的心智，也不要让它埋没在泥土里。把它带来吧。
+回收那些「珠」，制作成新的东西，添加到你自己的躯壳中。它还没死呢，除非你决定让它去死。
+它仍然能在你身上散发生命的光辉。
+对机器而言，回收就是最接近「转世」的概念。,진주를 발견하면 꼭 가지세요. 
+진주의 마음이 더이상 담겨 있지 않더라도 흙 속에 방치하지 마세요. 꼭 가지고 다니도록 하세요. 
+새로운 뭔가로 재활용하여 프레임에 추가하세요. 
+당신이 죽게 내버려 두지 않는 한 아직 죽은 게 아닙니다.
+당신을 통해 계속 존재할 수 있습니다.
+기계에게 있어선 가장 환생에 가까운 개념이죠.,パールを見つけたら、大切に保管しておきましょう。
+たとえそれがもはや自らの意志を持っていないとしても、土の中に埋もれさせてはなりません。
+拾い上げて、新たなものへと再生させ、自分自身のフレームに組み込みましょう。
+そのパールにはまだ可能性があるのです。終わらせるかどうかはあなた次第。
+あなたを通じて、そのパールはまだ生き続けることができる。
+それこそ、機械にとっての輪廻転生に最も近いものと言えるでしょう。,Якщо знайдете перлину, залиште у себе. 
+Навіть якщо в ній більше немає власної свідомості, не залишайте її лежати в багнюці. Заберіть з собою. 
+Перетворіть у щось нове. Додайте до своїх деталей. 
+Вона ще не мертва, доки ви цього не забажаєте.
+Вона все ще може жити разом з вами.
+Це найближче до реінкарнації з того, що може мати машина.,Bir inci bulursan onu sakla. 
+Artık kendine ait bir zihni olmasa da onu öylece yerde bırakma. Yanına al. 
+Yeni bir şeye dönüştür. Kendi sistemine ekle. 
+O, sen aksini düşünmediğin sürece hâlâ hayatta.
+Senin aracılığınla yaşamına devam edebilir.
+Makineleri yeniden doğmaya en çok yaklaştıran işlem budur.

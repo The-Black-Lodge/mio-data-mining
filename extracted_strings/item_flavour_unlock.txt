@@ -1,1 +1,428 @@
-ITEM_FLAVOUR_UNLOCK:MAP,Let me be your eyes.,Je serai tes yeux.,Lass mich deine Augen sein.,Lascia che sia i tuoi occhi.,Déjame ser tus ojos.,Permíteme ser tus ojos.,Me deixa ser seus olhos.,Pozwól mi być twoimi oczyma.,"Позволь, я стану твоими глазами.",讓我成為你的雙眼。,让我成为你的眼睛吧。,제가 눈이 되어드리겠습니다.,あなたの目となりましょう。,Дозволь мені бути твоїми очима.,İzin ver gözlerin olayım.
+ITEM_FLAVOUR_UNLOCK:BLOCK,I wasn't sure this one would even work. Usually, when you tinker with a pearl's functions, especially the Tendrils, you want to make them sturdier to grab more things. But what happens if you go the opposite way? Apparently, you can make units disappear.
+
+Don't worry, though. Your pearl desperately wants to go back to its original state, so it won't let you get stuck on the other side. But please do tell me what that "other side" looks like when you have the time!
+
+-- Samsk,J'étais pas bien sûr de pouvoir le faire fonctionner, celui-là. En règle générale, quand tu bidouilles les fonctions d'une perle, et celles des Filaments en particulier, c'est pour les rendre plus robustes. Tu cherches à ce qu'ils puissent attraper toujours plus de trucs. Mais du coup, qu'est-ce qui se passe quand tu essayes de faire l'inverse ? Visiblement, tu peux faire disparaître l'unité. 
+
+Pas de panique, hein. Ta perle veut absolument revenir à son état le plus stable, donc tu resteras jamais coincée de l'autre côté. Juste, si tu peux, dis-moi ce que c'est cet « autre côté », un de ces jours !
+
+-- Samsk,Ich war mir nicht mal sicher, ob das funktionieren würde. Normalerweise hat man beim Herumtüfteln an den Funktionen einer Perle – insbesondere an den Tentakeln – die Absicht, diese robuster zu machen, um mehr Dinge greifen zu können. Aber was, wenn man es genau umgekehrt macht? Offenbar kann man Einheiten auch verschwinden lassen.
+
+Aber keine Sorge. Deine Perle will unbedingt in ihren Urzustand zurückkehren, du wirst also nicht auf der „anderen Seite“ festsitzen. Aber erzähl mir mal, wie es dort „drüben“ aussieht, wenn du Zeit hast!
+
+– Samsk,Non ero sicuro che funzionasse. Di solito, quando traffichi con le funzioni delle perle, specialmente con i Tentacoli, vuoi renderli più solidi perché afferrino più cose. Ma cosa succede se invece fai il contrario? A quanto pare, puoi far sparire le unità.
+
+Non preoccuparti. La tua perla vuole sempre tornare allo stato originale, quindi non ti lascerà bloccata dall'altro lato. Ma per favore, fammi sapere come è l'"altro lato" quando hai tempo!
+
+-- Samsk,No estaba seguro de si esto funcionaría. Normalmente, cuando se modifican las funciones de una perla, sobre todo los filamentos, se busca que sean más resistentes para que agarren más cosas. ¿Pero qué pasa si se hace al revés? Al parecer, se pueden hacer desaparecer unidades.
+
+Pero no te preocupes. Tu perla quiere desesperadamente volver a su estado original, así que no te dejará quedarte atascado en el otro lado. ¡Pero dime cómo es ese "otro lado" cuando tengas tiempo!
+
+-- Samsk,No estaba seguro de que esto llegaría a funcionar. Normalmente, cuando se modifican las funciones de las perlas, especialmente los Filamentos, el objetivo es hacerlos más resistentes para que puedan sujetar más cosas. Pero, ¿qué ocurre si se hace lo contrario? Al parecer, es posible hacer desaparecer a las unidades.
+
+Pero no te preocupes. Tu perla desea volver desesperadamente a su estado original, así que no dejará que te quedes estancada en el otro lado. Pero sin duda, cuando tengas tiempo, ¡cuéntame cómo es ese "otro lado"!
+
+-- Samsk,Eu não tinha certeza se essa modificação funcionaria. Normalmente, quando mexemos com as funções de uma pérola, especialmente as Gavinhas, queremos torná-la mais resistente para pegar mais coisas. Mas o que acontece se fizermos o caminho oposto? Aparentemente, podemos fazer com que as unidades desapareçam.
+
+Mas não se preocupe. Sua pérola quer desesperadamente voltar ao seu estado original, por isso não vai te deixar presa no outro lado. Mas, por favor, me conte como é esse "outro lado" quando tiver tempo!
+
+-- Samsk,Nie byłem pewien, czy to w ogóle zadziała. Zazwyczaj, gdy majstrujesz przy funkcjach perły, szczególnie jeśli chodzi o Kosmyki, chcesz je wzmocnić, aby mogły chwytać więcej rzeczy. Ale co się stanie, jeśli by pójść w przeciwnym kierunku? Najwyraźniej można sprawić, że jednostki znikną.
+
+Nie martw się. Twoja perła rozpaczliwie chce wrócić do swojego pierwotnego stanu, więc nie pozwoli Ci utknąć po drugiej stronie. Tylko proszę, opowiedz mi potem, jak wygląda ta „druga strona”, gdy będziesz miała czas!
+
+-- Samsk,Вообще, я не думал, что это сработает. Обычно, если начинаешь возиться с какими-то функциями жемчужины — особенно с усиками — ты стараешься сделать их более крепкими, более цепкими. Но что будет, если пойти в другом направлении? Очевидно, это позволит юниту полностью исчезнуть.
+
+Но не волнуйся. Твоя жемчужина отчаянно хочет вернуться в своё исходное состояние, так что она не позволит тебе надолго задержаться по ту сторону реальности. О, и, пожалуйста, как будет время, расскажи мне, что там, по ту сторону реальности!
+
+— Самск,我一開始也不確定這有沒有用。通常調整珍珠功能，尤其是卷鬚的部分，是希望它更穩固，能抓取更多的東西。可是如果反過來呢？結果，似乎真的能讓裝置消失。
+
+別擔心，你的珍珠會拚命想恢復原狀，所以你不會卡在「另一邊」。不過有空記得跟我說說「另一邊」是什麼樣的感覺喔！
+
+-- Samsk,我之前还真不确定这东西能否奏效。通常来说，修改「珠」的功能，尤其是在调整卷须的功能时，一般都会希望让它们变得更坚固些，这样就能抓取更多的东西。但要是反过来思考呢？据说这样可以让个体暂时消失。
+
+不过别担心，你的「珠」极度渴望恢复到原来的状态，所以你不会被困在消失状态中。不过，在有空的时候，请务必告诉我消失状态到底是什么样子！
+
+-- 萨姆斯克,나는 이게 작동하긴 할지 확신이 없었어. 보통 진주의 기능을 다룰 때는, 특히 덩굴손을 다룰 때는 더 튼튼하고 더 많은 것을 잡을 수 있길 원하지. 하지만 반대로 한다면 어떻게 될까? 무려 유닛을 순간적으로 사라지게 할 수 있어.
+
+하지만 걱정 마, 진주는 어떻게든 원래 상태로 돌아가려고 하니까. 그러니까 네가 반대쪽에 갇히는 일은 없을 거야. 하지만 시간이 나면 그 '반대쪽'이 어떻게 생겼는지 꼭 알려달라고!
+
+-- 삼스크.,正直、これが本当に機能するどうか、自信がなかったんだ。普通はパールの機能、特に触手をいじるときは、もっと頑丈にして色々掴めるようにするんだ。でも、逆の発想をしたらどうなるだろう？どうやら、ユニットを消すことができるらしい。
+
+でも心配しないで。君のパールは元の状態に戻りたがっているから、向こう側に取り残されることはないよ。もし時間があったら、その「向こう側」がどんな場所だったか、ぜひ教えてほしい！
+
+-- サムスク,Я не був впевнений, що це взагалі спрацює. Зазвичай, коли експериментуєш з властивостями перлин, особливо вусиками, хочеш зробити їх твердішими, щоб можна було хапати більше. А якщо зробити навпаки? Виявляється, можна змусити юнітів зникати.
+
+Але не хвилюйся, твоя перлина відчайдушно хоче повернутися до первинного стану, тому вона не дасть тобі застрягнути на іншому боці. Але будь ласка розкажи мені, як виглядає той «інший бік», коли буде час!
+
+-- Самск,Bu seferkinin işe yarayacağından bile emin değildim. Genelde inci özellikleri üstünde, özellikle de Filizler üzerinde çalışırken onları dayanıklı hâle getirerek daha fazla eşya toplayabilmelerini sağlaman gerekir. Ama tam aksini yaparsan ne oluyor? Görünüşe bakılırsa birimlerin ortadan kaybolmasını sağlayabiliyorsun.
+
+Endişelenmene gerek yok. İncin çaresizce orijinal hâline geri dönmek istediği için öteki tarafta falan kalmıyorsun. Ama lütfen vaktin olduğunda "öteki taraf" ile ilgili gördüğün her şeyi anlat!
+
+-- Samsk
+ITEM_FLAVOUR_UNLOCK:GLIDE,I could not achieve true flight, but hopefully, this approximation will be enough. As long as you don't move, you should even be able to hang in the air unaffected by gravity.
+
+ There are so many places I'd like to see if I could fly myself... Unfortunately, I'm stuck to these pipes. It's best for everyone.
+
+-- Samsk,J'ai pas réussi à recréer un module de vol complet, mais cette approximation devrait suffire à te dépanner. Enfin, j'espère. Tant que tu bouges pas, tu devrais même pouvoir résister à la gravité. 
+
+Il y a tellement d'endroits que j'aimerais visiter si je pouvais voler... Mais bon, je suis coincé dans ces tuyaux. C'est mieux pour tout le monde. 
+
+-- Samsk,Ein echter Flug ist mir nicht gelungen, aber hoffentlich reicht diese Annäherung aus. Solange du dich nicht bewegst, solltest du sogar unbeeinflusst von der Schwerkraft in der Luft schweben können.
+
+Es gibt so viele Orte, die ich gerne sehen würde, wenn ich selbst fliegen könnte … Leider bin ich an diese Rohre gebunden. Das ist für alle das Beste.
+
+– Samsk,Non sono riuscito a creare il volo vero e proprio, ma questo si avvicina abbastanza. Finché non ti muovi, dovresti essere in grado di fluttuare in aria noncurante della gravità.
+
+Ci sono molti luoghi che mi piacerebbe vedere se potessi volare... Sfortunatamente, sono bloccato in questi condotti. Meglio così per tutti.
+
+-- Samsk,No pude lograr volar de verdad, pero espero que esta aproximación sea suficiente. Mientras no te muevas, incluso deberías poder flotar en el aire sin que te afecte la gravedad.
+
+Hay tantos lugares que me gustaría visitar si pudiera volar... Desafortunadamente, estoy atrapado en estas tuberías. Es lo mejor para todos.
+
+-- Samsk,No pude lograr un vuelo efectivo, pero espero que esta aproximación sea suficiente. Si dejas de moverte, incluso podrías quedarte suspendida en el aire sin que te afecte la gravedad.
+
+Hay tantos lugares que me gustaría ver si pudiera volar yo mismo... Por desgracia, estoy atado a estos tubos. Es mejor para todos.
+
+-- Samsk,Eu não consegui realizar o voo pleno, mas espero que essa aproximação seja suficiente. Contanto que você não se mova, deve ser capaz de ficar suspensa no ar sem ser afetada pela gravidade.
+
+Há tantos lugares que eu gostaria de ver se pudesse voar... Infelizmente, estou preso a esses canos. Assim é melhor para todos.
+
+-- Samsk,Nie udało mi się osiągnąć prawdziwego lotu, ale mam nadzieję, że to wystarczy. Dopóki się nie ruszasz, powinnaś być w stanie zawisnąć w powietrzu, nie podlegając grawitacji.
+
+Jest tyle miejsc, które chciałbym zobaczyć, gdybym sam potrafił latać... Niestety utknąłem w tych rurach. Ale w sumie tak jest lepiej dla wszystkich.
+
+-- Samsk,Это, конечно, не полноценный полёт, но, я думаю, этого будет достаточно. Если не двигаться, ты сможешь оставаться в воздухе, неподвластная силе гравитации.
+
+Если бы я сам мог летать, сколько разных мест я бы посетил… Увы, но я прикован к этим трубам. Так будет лучше для всех.
+
+— Самск,我沒辦法實現真正的飛行，但希望這種近似飛行的方式已經足夠了。你只要不移動，應該甚至能不受重力影響懸浮在空中。
+
+如果我能飛的話，我有很多地方想去看看……不幸的是，我被困在這些管道中。這對所有人來說都是最好的安排。
+
+-- Samsk,我无法实现真正的飞行，希望这种类似的设备还算够用。只要你原地不动，甚至可以不受重力影响地悬在空中。
+
+我要是能飞起来的话，真想去好多地方看看啊……很遗憾，我被困在管道中了。也许这样对大家都好。
+
+-- 萨姆斯克,진짜 비행을 구현하지는 못했지만, 이 정도로도 충분했으면 좋겠네. 움직이지 않고 있으면 중력의 영향 없이 공중에 떠 있을 수도 있어.
+
+내가 날아다닐 수 있다면 가보고 싶은 곳이 아주 많은데... 안타깝게도 난 이 파이프에서 꼼짝 못 하는 신세지. 이건 누구에게나 최고의 물건이야.
+
+-- 삼스크,本当の飛行は実現できなかったけど、この代替案でも十分満足してもらえることを願っている。下手に動かない限り、重力に逆らって空中に浮かぶこともできるはずだ。
+
+もし僕が飛べたなら、行ってみたい場所がたくさんあるのにな…残念ながら、僕はこのパイプから動くことはできない。でも、それがみんなにとって一番いいんだ。
+
+-- サムスク,Справжній політ забезпечити не вдалося, але, сподіваюсь, цього буде достатньо. Доки ти не рухаєшся, можеш навіть висіти в повітрі без жодного впливу гравітації.
+
+Я б хотів відвідати стільки місць, якби сам зміг літати... На жаль, я застряг у цих трубах. Так краще для всіх.
+
+-- Самск,Tamamen uçmanı sağlayamadım ama yeterince yaklaştığımı düşünüyorum. Sanırım hareket etmediğin sürece yer çekiminden etkilenmeden havada asılı kalabilirsin.
+
+Uçabilseydim birçok yeri gezmek isterdim. Ne yazık ki bu borularda yaşamaya devam etmek zorundayım. Olması gereken de bu zaten.
+
+-- Samsk
+ITEM_FLAVOUR_UNLOCK:HIT_RECHARGE,I got the idea from these glowing plants you might have seen around the Haven. I think they feed on the energy of the Vessel herself, so I thought: "What about harvesting *them*?"
+
+It's like getting back what they took from us, in a way. The Heart is sick enough as she is, she doesn't need organics meddling with her too.
+
+-- Samsk,C'est les plantes fluorescentes dans le Sanctuaire qui m'ont donné l'idée. J'ai l'impression qu'elles se nourrissent de l'énergie de l'Arche elle-même, du coup je me suis dit : « pourquoi ne pas récolter toute cette énergie ? »
+
+D'une certaine façon, on récupère ce qu'elles nous ont volé. Le Coeur en bave suffisamment comme ça, elle a pas besoin que les organiques viennent jouer les sangsues en plus du reste. 
+
+-- Samsk,Ich hatte die Idee von diesen leuchtenden Pflanzen, die du vielleicht schon in der Oase gesehen hast. Ich glaube, sie ernähren sich von der Energie des Schiffes, also dachte ich … „Wie wäre es, *sie* zu ernten?“
+
+Es ist fast so, als bekämen wir zurück, was sie uns genommen haben. Das Herz ist schon krank genug, da muss es sich nicht auch noch mit Organismen herumschlagen.
+
+– Samsk,Ho preso l'idea da queste piante luminose che forse hai visto in giro per l'Oasi. Penso che si nutrano dell'energia del Vascello stesso, quindi ho pensato: perché non raccogliere direttamente le piante?
+
+È come riprendersi quello che si sono prese da noi, in un certo senso. Il Cuore è già sofferente di suo, non ha bisogno che degli organici si intromettano.
+
+-- Samsk,La idea surgió de estas plantas brillantes que quizás hayas visto por el Refugio. Creo que se alimentan de la energía de la mismísima Nave, así que pensé: "¿Qué tal si las cosechamos?".
+
+Es como recuperar lo que nos quitaron, en cierto modo. El Corazón ya está bastante enfermo, no necesita que los orgánicos se entrometan en ella también.
+
+-- Samsk,Tuve la idea cuando vi esas plantas resplandecientes que hay por ahí en el Refugio. Creo que se alimentan de la energía del Navío, así que pensé... "¿Y si nosotros aprovechamos *su* energía?".
+
+De cierta forma, es como recuperar lo que nos quitaron. El Corazón ya está demasiado enfermo; no necesita que esos seres orgánicos se entrometan también.
+
+-- Samsk,Eu me inspirei nas plantas luminosas que você já deve ter visto pelo Refúgio. Acho que elas se alimentam da energia da própria Nau, então pensei "por que não colher *elas*"?
+
+É como recuperar o que elas tiraram de nós, de certa forma. O Coração já está doente o suficiente, ela não precisa que os orgânicos a atrapalhem também.
+
+-- Samsk,Pomysł zaczerpnąłem z jarzących się roślin, które pewnie widziałaś w okolicy. Myślę, że żywią się energią samego Statku, więc pomyślałem... „A może pobierać z nich energię?”
+
+To tak, jakby w pewien sposób odzyskać to, co nam zabrały. Serce jest wystarczająco chore samo w sobie, nie potrzebuje, żeby w jego sprawy wtrącały się istoty organiczne.
+
+-- Samsk,Эту идею мне подкинули светящиеся растения, которые тебе, вероятно, попадались в Прибежище. Очень похоже, что они питаются энергией самого Судна, так что я подумал… а почему бы не попробовать выкачивать энергию из них?
+
+Мы, вроде как, возвращаем то, что они забрали у нас. Сердцу и так сейчас тяжело, не хватало ещё, чтобы органика сосала из неё последние соки.
+
+— Самск,這是我從你可能在避風港周圍看到的那些發光植物得到的靈感。我認為它們吸收的是船艦本身的能量，所以我就想：「何不收割 *它們* 看看呢」？
+
+某種程度上，這就像把它們從我們這裡奪走的能量拿回來。心臟已經病得夠重了，她不需要有機生物也來參一腳害她。
+
+-- Samsk,灵感来自于可能会在「安港」附近出现的发光植物。我认为，这些植物是以「皿躯舰」本身的能量为食，所以就想进一步运用牠们。
+
+在某种程度上来说，运用这种植物像是拿回牠们从我们手中夺走的东西。「心」已经病得够严重了，她不需要有机生物来横加干涉。
+
+-- 萨姆斯克,빛을 내는 식물에서 아이디어를 얻었어. 너도 안식원 주변에서 봤을 거야. 그 식물들이 본선 자체의 에너지를 먹고 사는 것 같았거든. 그래서 생각했지. '만약 *저걸* 수확하면 어떨까?'라고.
+
+식물이 우리에게서 가져간 걸 되찾는 거나 마찬가지잖아. 심장은 지금도 병들었는데 유기체들의 간섭까지 받을 필요는 없으니까.
+
+-- 삼스크,君もヘイヴンで見かけたかもしれないけど、あの発光する植物からアイデアを得たんだ。あの植物はヴェッセルのエネルギーを吸収しているように見える。だから、こう思ったんだ…「あれを収穫してみたらどうだろう？」ってね。
+
+ある意味、彼らに奪われたものを取り返すようなものだよ。ハートは今でも十分に苦しんでいるんだ。これ以上、有機体を彼女に干渉させるわけにはいかない。
+
+-- サムスク,Я надихався цими сяйними рослинами, які могли трапитися тобі у Притулку. Я гадаю, вони живляться енергією Ковчега, тому я подумав, чого б не збирати *їх*?
+
+Це як повернути те, що вони в нас забрали. Серцю й так складно, їй не потрібна органіка, що присмокталася до неї.
+
+-- Самск,Fikri, Koru'nun etrafında görmüş olabileceğin parlayan bitkilerden aldım. Sanırım Aracı'nın kendi enerjisinden besleniyorlar. Ben de onları toplamayı düşündüm.
+
+Bizden aldıklarını geri almanın bir yoluymuş gibi düşün. Kalp zaten yeteri kadar hasta, bir de organik varlıklarla uğraşmak zorunda kalmamalı.
+
+-- Samsk
+ITEM_FLAVOUR_UNLOCK:HOOK,The Vessel is a big place and moving around must be difficult for a tiny unit like you. This gift will help you reach higher and farther places than ever before.
+
+Thank you again for helping me looking for my friend. With you on the outside, and me on the inside, we'll leave no stone of the Vessel unturned.
+
+-- Samsk,L'Arche est immense, tu vas avoir du mal à te déplacer vu ta petite taille. Ce petit cadeau devrait te permettre d'aller plus loin, plus haut, plus vite. 
+
+Merci encore de m'aider à retrouver mon ami·e. Entre toi dans les couloirs et moi dans les tuyaux, on va pouvoir retourner l'Arche dans ses moindres recoins. 
+
+-- Samsk,Das Schiff ist ein großer Ort und für eine kleine Einheit wie dich muss es schwierig sein, sich darin zu bewegen. Dieses Geschenk wird dir dabei helfen, höhere und abgelegene Orte zu erreichen.
+
+Danke noch mal, dass du mir bei der Suche nach meinem Freund geholfen hast. Mit dir da draußen und mir hier drinnen können wir im Schiff jeden einzelnen Stein umdrehen.
+
+– Samsk,Il Vascello è un luogo enorme e spostarsi attraverso di esso deve essere difficile per una piccola unità come te. Questo regalo ti aiuterà a raggiungere luoghi più lontani e più alti di prima.
+
+Grazie ancora per avermi aiutato nel cercare il mio amico. Con te all'esterno, e io all'interno, cercheremo in ogni angolo del Vascello.
+
+-- Samsk,La Nave es un lugar enorme y moverse por ella debe ser difícil para una unidad tan pequeña como tú. Este regalo te ayudará a alcanzar lugares más altos y lejanos.
+
+Gracias de nuevo por ayudarme a buscar a mi amigo. Contigo fuera y yo dentro, no dejaremos piedra sin remover en la Nave.
+
+-- Samsk,El Navío es un lugar muy grande y desplazarse por él debe ser difícil para una unidad diminuta como tú. Este regalo te ayudará a llegar más alto y más lejos.
+
+Gracias otra vez por ayudarme a encontrar a mi amigo. Si tú buscas por fuera y yo por dentro, no quedará ningún rincón del Navío sin registrar.
+
+-- Samsk,A Nau é um lugar enorme, e locomover-se deve ser difícil para uma unidade minúscula como você. Este presente vai ajudá-la a alcançar lugares mais altos e mais distantes.
+
+Obrigado mais uma vez por me ajudar a procurar meu amigo. Com você do lado de fora e eu do lado de dentro, vamos revirar todos os cantos da Nau.
+
+-- Samsk,Statek jest dużym miejscem, a poruszanie się po nim musi być trudne dla tak małej jednostki jak ty. Ten mały prezent pomoże ci dotrzeć wyżej i dalej niż kiedykolwiek wcześniej.
+
+Jeszcze raz dziękuję za pomoc w poszukiwaniach mojego przyjaciela. Z tobą na zewnątrz, a mną w środku, przetrząśniemy każdy kąt Statku.
+
+-- Samsk,Судно огромно, и такой крохе, как ты, должно быть, непросто по нему перемещаться. Этот подарок поможет тебе забираться ещё выше и дальше, чем раньше.
+
+Ещё раз спасибо, что помогаешь мне найти моего друга. пока ты действуешь снаружи, а я внутри, мы сможем изучить каждый уголок Судна.
+
+— Самск,船艦非常大，對你這樣的小裝置來說，四處移動一定不容易。這份禮物將協助你到達比以往更高更遠的地方。
+
+再次謝謝你幫我尋找朋友。有你我內外配合，我們一定能找遍船艦。
+
+-- Samsk,「皿躯舰」的规模很大，你这样的小型个体要在这里四处走动一定很费力。这件礼物可以帮助你前往更高、更远的地方。
+
+再次感谢你帮忙寻找我的朋友。我们可以相互配合，把「皿躯舰」的每一个角落都找个遍。
+
+-- 萨姆斯克,본선은 거대한 공간이어서 너처럼 작은 유닛은 돌아다니기가 쉽지 않지. 이건 네가 꿈도 꾸지 못했던, 더 높고 더 먼 곳에 닿을 수 있도록 도와줄 선물이야.
+
+친구를 찾는 걸 도와줘서 다시 한번 고마워. 너는 밖에서, 나는 안에서, 우리 둘이 본선을 빠짐없이 수색할 수 있을 거야.
+
+-- 삼스크,ヴェッセルはとても大きいから、君のような小さなユニットにとって移動は大変だろう。この僕からの贈り物を使えば、これまで以上に高く、遠くへ行けるはずだ。
+
+友達を探すのを手伝ってくれて本当にありがとう。君は外側から、僕は内側から、ヴェッセルの隅々まで調べ尽くそう。
+
+--サムスク,Ковчег — великий корабель, такому маленькому юніту, як ти, може бути складно ним пересуватися. Цей подарунок допоможе досягти місць, розташованих вище та далі, ніж раніше.
+
+Ще раз дякую за допомогу у пошуках друга. З тобою назовні та поки я всередині, ми не залишимо в Ковчегу й камінчика неоглянутого.
+
+-- Самск,Aracı çok büyük bir gemi, senin gibi ufak bir birim için etrafta gezinmek zor olsa gerek. Bu armağanla eskisinden daha yüksek ve daha uzak yerlere ulaşabileceksin.
+
+Arkadaşımı aramama yardım ettiğin için tekrar teşekkür ederim. Dışarıda sen, içeride ben, Aracı'da bakılmadık yer bırakmayacağız.
+
+-- Samsk
+ITEM_FLAVOUR_UNLOCK:MAP,Let me be your eyes.,Je serai tes yeux.,Lass mich deine Augen sein.,Lascia che sia i tuoi occhi.,Déjame ser tus ojos.,Permíteme ser tus ojos.,Me deixa ser seus olhos.,Pozwól mi być twoimi oczyma.,Позволь, я стану твоими глазами.,讓我成為你的雙眼。,让我成为你的眼睛吧。,제가 눈이 되어드리겠습니다.,あなたの目となりましょう。,Дозволь мені бути твоїми очима.,İzin ver gözlerin olayım.
+ITEM_FLAVOUR_UNLOCK:ORB_SHOOT,This should help you clear out all the rubbles, jammed doors and the like that will inevitably pave your way. It may even keep the rogue units away.
+
+I'm really sad to see the Vessel in such a sorry state. Once the Heart is better, we'll have a long work ahead of us to put her back in shape.
+
+-- Samsk,Ça devrait t'aider à dégager tous les débris, portes coincées et autres trucs du genre qui te bloquent sur ton chemin. Peut-être même les unités hostiles. 
+
+Quelle déprime de voir l'Arche dans cet état. Dès que le Coeur ira mieux, on aura du boulot pour la remettre en état. 
+
+-- Samsk,Damit solltest du alle Trümmer, verklemmten Türen und Ähnliches beseitigen können, die dir unweigerlich den Weg versperren werden. Vielleicht hält das sogar die abtrünnigen Einheiten fern.
+
+Es macht mich sehr traurig, das Schiff in einem so desolaten Zustand zu sehen. Sobald es dem Herz besser geht, haben wir viel Arbeit vor uns, um es wieder in Form zu bringen.
+
+– Samsk,Questo dovrebbe aiutarti a sbarazzarti di detriti, porte bloccate e cose simili che sicuramente ti troverai davanti. Potrebbe anche tenere lontane le unità impazzite.
+
+Mi dispiace molto vedere lo stato in cui è ridotto il Vascello. Una volta che il Cuore starà meglio, avremo molto lavoro da fare perché torni in forma.
+
+-- Samsk,Esto debería ayudarte a limpiar todos los escombros, puertas atascadas y demás que inevitablemente te obstruirán el camino. Incluso podría mantener alejadas a las unidades rebeldes.
+
+Me entristece mucho ver la Nave en tan mal estado. Una vez que el Corazón se recupere, tendremos un largo trabajo por delante para ponerla en forma.
+
+-- Samsk,Esto debería ayudarte a despejar todos los escombros, puertas atascadas y cosas por el estilo que inevitablemente bloquearán tu camino. Puede que incluso mantenga alejadas a las unidades descontroladas.
+
+Me entristece mucho ver el Navío en un estado tan deplorable. Cuando el Corazón se recupere, tendremos mucho trabajo por delante para volver a dejarlo en forma.
+
+-- Samsk,Isso deve ajudar a remover todos os escombros, portas emperradas e coisas do gênero que você, inevitavelmente, encontrará no caminho. Isso pode até manter as unidades descontroladas afastadas.
+
+Estou muito triste por ver a Nau em um estado tão lamentável. Quando o Coração estiver melhor, teremos um longo trabalho pela frente para colocá-la de volta em forma.
+
+-- Samsk,To powinno pomóc ci oczyścić drogę z wszelkiego gruzu, zablokowanych drzwi i tym podobnych przeszkód, które nieuchronnie staną ci na drodze. Może nawet odstraszyć zbuntowane jednostki.
+
+Jestem naprawdę smutny widząc Statek w tak opłakanym stanie. Gdy stan Serca się polepszy, będziemy mieli przed sobą dużo pracy, aby przywrócić go do dawnej chwały.
+
+-- Samsk,Это поможет тебе расчищать завалы, пробивать заклинившие двери и преодолевать другие преграды на твоём пути. Может даже помочь справиться с дефектными юнитами.
+
+Мне горько видеть, что Судно находится в таком плачевном состоянии. Когда Сердце поправится, нам всем нужно будет как следует потрудиться, чтобы вернуть корабль в прежнюю форму.
+
+— Самск,這應該能協助你清除路上的所有碎石、卡住的門之類的障礙物。甚至能讓失控的裝置離你遠一點。
+
+看到船艦狀態這麼糟，我真的很難過。等心臟好轉之後，我們還要完成很多工作，才能讓它恢復原狀。
+
+-- Samsk,这件物品可以帮助你清除瓦砾和堵塞的门之类的障碍，为你开辟道路。甚至可以抵御失控个体。
+
+看到「皿躯舰」如此糟糕，我真的很难过。如果「心」的状况有所好转，我们还要做出很多努力，才能让她恢复正常。
+
+-- 萨姆斯克,이건 각종 잔해와 망가진 문 같은 것들을 치우고 앞으로 나아가는 데 도움이 될 거야. 심지어 변이 유닛을 막아 줄 수도 있지.
+
+본선이 그렇게나 참담한 상태인 게 정말 슬프네. 심장이 좋아지고 나면 제 모습으로 돌려놓기 위해 할 일이 아주 많겠어.
+
+-- 삼스크,これで、瓦礫や詰まったドアなど、道を塞ぐものをすべて片付けることができるはずだ。もしかしたら、暴走したユニットを遠ざけることもできるかもしれない。
+
+ヴェッセルがこんなにひどい状態になっているのを見るのは本当にいたたまれないよ。ハートが回復した際には、彼女を元の状態に戻すための長い作業が待っている。
+
+-- サムスク,Це має допомогти тобі розчищати завали, заблоковані двері та інші перешкоди, які точно трапляться на твоєму шляху. З нею можна навіть відбитися від поганців.
+
+Дуже сумно бачити Ковчег у такому занедбаному стані. Коли Серцю стане краще, знадобиться багато роботи, щоб привести її до ладу.
+
+-- Самск,Er ya da geç karşına çıkacak molozları, sıkışmış kapıları ve benzer engelleri bununla temizleyebilirsin. Hatta yozlaşmış birimlere karşı bile iş görebilir.
+
+Aracı'yı bu hâlde görmek beni gerçekten üzüyor. Kalp iyileştikten sonra gemiyi eski güzel günlerine döndürmek için çok çabalamamız gerekecek.
+
+-- Samsk
+ITEM_FLAVOUR_UNLOCK:SPIDER,It was trickier to enable than it seems. Your framework is not built to wield that many Tendrils, so I couldn't completely avoid the energy leak.
+
+But I'm confident that they'll carry you around without fault. They are strong enough to withstand anything that the Vessel throws at you.
+
+-- Samsk,C'était plus compliqué à rendre possible que ce que je pensais. Ton armature n'est pas taillée pour manipuler autant de Filaments, attends-toi à une légère fuite d'énergie quand tu t'en sers. 
+
+Enfin, je suis quand même confiant, hein. Elles te porteront sans faute quand tu en auras besoin. Crois-moi, elles sont assez solides pour supporter tout ce que l'Arche aura à mettre en travers de ton chemin. 
+
+-- Samsk,Das war schwieriger zu aktivieren, als es scheint. Deine Struktur ist für so viele Tentakel nicht ausgelegt, also konnte ich ein Energieleck nicht ganz umgehen.
+
+Aber ich bin zuversichtlich, dass sie dich ohne Defekt tragen werden. Sie sind stark genug, um allem standzuhalten, was das Schiff zu bieten hat.
+
+– Samsk,L'attivazione è stata più difficile del previsto. La tua struttura non è creata per trasportare così tanti Tentacoli, quindi non ho potuto evitare la perdita di energia.
+
+Ma sono sicuro che ti porteranno in giro senza problemi. Sono forti abbastanza da sopportare qualsiasi cosa il Vascello abbia in serbo per te.
+
+-- Samsk,Fue más complicado de habilitar de lo que parece. Tu estructura no está diseñada para manejar tantos tentáculos, así que no pude evitar por completo la fuga de energía.
+
+Pero confío en que te transportarán sin problemas. Son lo suficientemente fuertes como para soportar cualquier cosa que la nave te lance.
+
+-- Samsk,Habilitar esta función fue más difícil de lo que parece. Tu infraestructura no está hecha para manejar tantos Filamentos, así que no pude evitar por completo la fuga de energía.
+
+Pero confío en que te ayudarán a moverte. Son lo bastante fuertes como para resistir cualquier cosa que el Navío te ponga en frente.
+
+-- Samsk,Foi mais difícil de habilitar do que parece. Sua estrutura não foi feita pra usar tantas Gavinhas, por isso não consegui evitar completamente o vazamento de energia.
+
+Mas estou confiante de que elas vão carregar você sem problemas. Elas são fortes o suficiente pra resistir a qualquer desafio que a Nau lhe impuser.
+
+-- Samsk,To było trudniejsze niż się wydawało. Twoja konstrukcja nie jest zbudowana do władania tak wieloma Kosmykami na raz, więc nie byłem w stanie całkowicie uniknąć utraty mocy.
+
+Ale jestem pewien, że będą cię mogły unieść bez problemu. Są wystarczająco silne, by wytrzymać każde wyzwanie, jakie możesz spotkać na Statku.
+
+-- Samsk,Тут мне пришлось повозиться. Твой корпус не рассчитан на использование такого количества усиков, так что полностью избежать проблем с утечкой энергии всё же не удалось.
+
+Но я уверен, что они сослужат тебе хорошую службу. И помогут справиться с любыми трудностями и угрозами, которые уготовило тебе Судно.
+
+— Самск,它用起來遠比想像中不容易。你的構造並不是為了操控那麼多卷鬚而設計的，所以我無法完全避免能量洩漏。
+
+但我相信它們要帶你四處移動是毫無問題的。它們強大到足以承受船艦為你帶來的任何考驗。
+
+-- Samsk,棘手程度有些超出预计。你的躯壳在设计之初并没有考虑到你会使用这么多卷须，因此我无法完全阻止能量泄漏。
+
+但我确信，你可以借助这些手臂四处行动。这些手臂的强度很高，可以抵挡住「皿躯舰」向你投掷的所有东西。
+
+-- 萨姆斯克,이걸 사용할 수 있게 만드는 건 보기보다 어려웠어. 네 프레임 구조는 덩굴손 여러 개를 휘두르도록 만들어진 게 아니라 에너지 누출을 완전히 막지는 못했지.
+
+그래도 널 문제없이 데려다줄 거야. 본선이 너한테 뭘 던져도 버텨낼 만큼 튼튼하거든.
+
+-- 삼스크,それを実用化させるのは思ったより難しかった。君のフレームワークはそんなに多くの職種を扱うようには設計されてないから、エネルギー漏れを完全に避けることはできなかった。
+
+しかしそれでも、問題なく君を運ぶことはできるはずだ。これは、ヴェッセルから降ってくるどんなものにも耐えられるほど強力だよ。
+
+-- サムスク,Це було складніше зробити, ніж здається. Твій корпус не розраховано на керування такою кількістю вусиків, тож мені не вдалося повністю уникнути втрати енергії.
+
+Але я впевнений, що вони добре слугуватимуть тобі без збоїв. Вони достатньо міцні, щоб витримати будь-що, що зустрінеться тобі у Ковчегу.
+
+-- Самск,Etkinleştirmesi göründüğünden daha zor oldu. Sistemin bu kadar Filiz'i aynı anda taşımak için tasarlanmamış, o yüzden enerji sızıntısını tamamen engelleyemedim.
+
+Yine de seni sorunsuz bir şekilde taşıyacaklarından eminim. Aracı'da başına gelebilecek her şeye dayanacaklardır.
+
+-- Samsk
+ITEM_FLAVOUR_UNLOCK:SPIDER_GOO,Even in its fragmented state, the mind of the Crucible is lost in its complex calculations. Is it even conscious of its own fate? You can't be sure. 
+
+The only thing you grasp from its ramblings is a string of data that keeps coming back over and over again, and that you can only translate as: 
+
+"Find the source.",Même dans un état fragmentaire, l'esprit du Creuset se perd dans des calculs complexes. Est-il seulement conscient de son propre sort ? Rien n'est moins sûr.
+
+La seule chose que vous parvenez à tirer de ses divagations, c'est une chaîne de données qui ne cesse de se répéter encore et encore. Si vous deviez la traduire, le texte dirait :
+
+« Trouvez la source. »,Selbst in seinem fragmentierten Zustand verliert sich der Geist des Schmelztiegels in komplexen Berechnungen. Ist er sich seines eigenen Schicksals überhaupt bewusst? Du kannst dir da nie sicher sein.
+
+Das Einzige, was du aus seinem wirren Gerede entnimmst, ist eine Datenfolge, die sich immer wiederholt, und die du nur so übersetzen kannst:
+
+„Finde die Quelle.“,Anche nel suo stato frammentato, la mente del Crogiolo è perduta nei suoi complessi calcoli. È davvero consapevole del proprio destino? Non puoi dirlo con certezza.
+
+L'unica cosa che riesci a cogliere dai suoi vaneggiamenti è una stringa di dati che si ripete più e più volte, e che puoi solo tradurre come:
+
+"Trova l'origine.",Incluso en su estado fragmentado, la mente del Crisol se pierde en sus complejos cálculos. ¿Es siquiera consciente de su propio destino? No puedes estar seguro.
+
+Lo único que logras descifrar de sus desvaríos es una cadena de datos que se repite una y otra vez, y que solo puedes traducir como:
+
+"Encuentra el origen.",Aun en su estado fragmentado, la mente del Crisol se pierde entre cálculos complejos. ¿Será consciente de su propio destino? No puedes saberlo.
+
+Lo único que alcanzas a entender de su divagar es una cadena de datos que se repite una y otra vez, y que solo puedes traducir como:
+
+"Encuentra el origen".,Mesmo em seu estado fragmentado, a mente do Crisol se perde em cálculos complexos. Será que tem consciência do próprio destino? Você não tem como saber.
+
+A única coisa que consegue extrair de seus delírios é uma sequência de dados que se repete sem parar, e que você só consegue traduzir como:
+
+"Encontre a origem.",Nawet w swoim rozbitym stanie umysł Tygla gubi się w zawiłych obliczeniach. Czy jest w ogóle świadomy własnego losu? Nie możesz mieć pewności.
+
+Jedyne, co udaje ci się wyłapać z jego bełkotu, to ciąg danych powtarzający się raz za razem, który potrafisz przetłumaczyć tylko w jeden sposób:
+
+„Odnajdź źródło.”,Даже в своём раздробленном состоянии разум Горна теряется в сложных вычислениях. Сознаёт ли он хоть свою судьбу? Ты не можешь быть уверен.
+
+Единственное, что удаётся уловить в его бреду, — это цепочка данных, повторяющаяся снова и снова, и ты можешь перевести её лишь так:
+
+«Найди источник.»,即使在支離破碎的狀態下，熔爐的意識仍迷失於複雜的計算之中。它是否仍然意識到自己的命運？你無從得知。
+
+你從它的呢喃中唯一捕捉到的，是一串不斷重複的資料，你只能將其解讀為：
+
+「尋找源頭。」,即使在支离破碎的状态下，坩锅的意识仍迷失在复杂的计算之中。它是否意识到自己的命运？你无法确定。
+
+你从它的呢喃中唯一捕捉到的，是一串不断重复的数据，你只能将其翻译为：
+
+「寻找源头。」,산산이 조각난 상태에서도, 도가니의 정신은 여전히 복잡한 계산 속에 잠겨 있다. 자신의 운명을 알고나 있을까? 확신할 수 없다.
+
+그의 중얼거림 속에서 네가 알아들을 수 있는 건 끊임없이 반복되는 데이터의 한 줄뿐이며, 그것을 이렇게 번역할 수밖에 없다.
+
+“근원을 찾아라.”,断片となった今も、工房の意識は複雑な演算の中に迷い込んでいる。それは自らの運命を自覚しているのだろうか？あなたには分からない。
+
+そのうわ言から掴み取れるのは、何度も何度も繰り返されるデータ列だけで、それをこう訳すことしかできない。
+
+「源を探せ。」,Навіть у своєму роздробленому стані розум Тигля губиться у складних обчисленнях. Чи усвідомлює він власну долю? Ти не впевнений.
+
+Єдине, що тобі вдається вловити серед його марення, — це послідовність даних, яка повторюється знову й знову, і яку можна перекласти лише так:
+
+«Знайди джерело.»,Parçalara ayrılmış hâlinde bile, İmalathane’nin zihni karmaşık hesapların içinde kaybolmuş durumda. Kendi kaderinin farkında mı? Emin olamazsın.
+
+Mırıldanmalarından yakalayabildiğin tek şey, tekrar tekrar dönen bir veri dizisi ve bunu ancak şöyle çevirebiliyorsun:
+
+“Kaynağı bul.”

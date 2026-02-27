@@ -28,7 +28,7 @@ HOVERTEXT:DOOR_CUVE_UNLOCK,<Btn_interact> Open,<Btn_interact> Ouvrir,<Btn_intera
 HOVERTEXT:DOOR_FACTORY_LOCKED,<color=ff0000>Locked: requires access code (% / %)</color>,<color=ff0000>Verrouillée : nécessite un code d’accès (% / %)</color>,<color=ff0000>Versperrt: erfordert Zugriffscode (% / %)</color>,<color=ff0000>Chiusa: richiede codice di accesso (%/%)</color>,<color=ff0000>Cerrado: requiere código de acceso (% / %)</color>,<color=ff0000>Bloqueada: requiere código de acceso (% / %)</color>,<color=ff0000>Trancada: requer código de acesso (% / %)</color>,<color=ff0000>Zablokowane: wymaga kodu dostępu (% / %)</color>,<color=ff0000>Заперто: требуется код доступа (% / %)</color>,<color=ff0000>已上鎖：需要權限碼解鎖 (% / %)</color>,<color=ff0000>已锁：需要访问码 (% / %)</color>,<color=ff0000>잠김: 접근 코드(% / %) 필요</color>,<color=ff0000>ロックされています：アクセスコードが必要です（% / %）</color>,<color=ff0000>Заблоковано: потрібен код доступу (% / %)</color>,<color=ff0000>Kilitli: erişim kodu gerekli (% / %)</color>
 HOVERTEXT:DOOR_FACTORY_UNLOCK,<Btn_interact> Enter access code,<Btn_interact> Saisir le code d’accès,<Btn_interact> Zugriffscode eingeben,<Btn_interact> Inserisci codice di accesso,<Btn_interact> Introducir el código de acceso,<Btn_interact> Ingresar código de acceso,<Btn_interact> Digitar código de acesso,<Btn_interact> Wprowadź kod dostępu,<Btn_interact> Ввести код доступа,<Btn_interact>輸入權限碼,<Btn_interact> 输入访问码,<Btn_interact> 접근 코드 입력,<Btn_interact>アクセスコードを入力,<Btn_interact> Укажіть код доступу,Erişim kodunu gir: <Btn_interact>
 HOVERTEXT:DOOR_HALYN_LOCKED,<color=ff0000>Requires Network Gate energy</color>,<color=ff0000>Nécessite l’énergie du Portail du réseau</color>,<color=ff0000>Erfordert Netzwerk-Gate-Energie</color>,<color=ff0000>Richiede energia della Porta del network</color>,<color=ff0000>Requiere energía de la puerta de red</color>,<color=ff0000>Requiere energía de puerta de red</color>,<color=ff0000>Requer energia do Portão de Rede</color>,<color=ff0000>Wymaga energii Bramki Sieci</color>,<color=ff0000>Требуется энергия сетевого шлюза</color>,<color=ff0000>需要網路之門的能量</color>,<color=ff0000>需要网络门能量</color>,<color=ff0000>네트워크 게이트 에너지 필요</color>,<color=ff0000>ネットワークゲートエネルギーが必要です</color>,<color=ff0000>Потрібно живлення Мережевих воріт</color>,<color=ff0000>Ağ Geçidi enerjisi gerekli</color>
-HOVERTEXT:DOOR_KEY_LOCKED,<color=ff0000>Locked: requires %D</color>,<color=ff0000>Verrouillée : nécessite %D</color>,<color=ff0000>Versperrt: erfordert %D</color>,<color=ff0000>Chiusa: richiede %D</color>,<color=ff0000>Bloqueado: requiere %D</color>,<color=ff0000>Bloqueada: requiere %D</color>,<color=ff0000>Trancada: requer %D</color>,"<color=ff0000>Zamknięte, wymaga: %D</color>",<color=ff0000>Заперто: требуется %D</color>,<color=ff0000>已上鎖：需要%D解鎖</color>,<color=ff0000>已锁：需要 %D</color>,<color=ff0000>잠김: %D 필요</color>,<color=ff0000>ロックされています：%Dが必要です</color>,<color=ff0000>Заблоковано: потрібно %D</color>,<color=ff0000>Kilitli: %D gerekli</color>
+HOVERTEXT:DOOR_KEY_LOCKED,<color=ff0000>Locked: requires %D</color>,<color=ff0000>Verrouillée : nécessite %D</color>,<color=ff0000>Versperrt: erfordert %D</color>,<color=ff0000>Chiusa: richiede %D</color>,<color=ff0000>Bloqueado: requiere %D</color>,<color=ff0000>Bloqueada: requiere %D</color>,<color=ff0000>Trancada: requer %D</color>,<color=ff0000>Zamknięte, wymaga: %D</color>,<color=ff0000>Заперто: требуется %D</color>,<color=ff0000>已上鎖：需要%D解鎖</color>,<color=ff0000>已锁：需要 %D</color>,<color=ff0000>잠김: %D 필요</color>,<color=ff0000>ロックされています：%Dが必要です</color>,<color=ff0000>Заблоковано: потрібно %D</color>,<color=ff0000>Kilitli: %D gerekli</color>
 HOVERTEXT:DOOR_KEY_UNLOCK,<Btn_interact> Open with %D,<Btn_interact> Ouvrir avec %D,<Btn_interact> Öffnen mit %D,<Btn_interact> Apri con %D,<Btn_interact> Abrir con %D,<Btn_interact> Abrir con %D,<Btn_interact> Abrir com %D,<Btn_interact> Otwórz za pomocą: %D,<Btn_interact> Открыть с помощью: %D,<Btn_interact>使用 %D 即可開啟,<Btn_interact> 用 %D 打开,<Btn_interact> %D(으)로 열기,<Btn_interact>%Dを使って開く,<Btn_interact> Відкрити за допомогою: %D,%D ile aç: <Btn_interact>
 HOVERTEXT:DOOR_OTHER_SIDE,<color=ff0000>Locked from the other side</color>,<color=ff0000>Verrouillée de l’autre côté</color>,<color=ff0000>Von der anderen Seite versperrt</color>,<color=ff0000>Chiusa a chiave dalla parte opposta</color>,<color=ff0000>Cerrado desde el otro lado</color>,<color=ff0000>Está bloqueada desde el otro lado</color>,<color=ff0000>Trancada do outro lado</color>,<color=ff0000>Zamknięte z drugiej strony</color>,<color=ff0000>Заперто с другой стороны</color>,<color=ff0000>從另一側鎖住</color>,<color=ff0000>从另一边锁住了</color>,<color=ff0000>반대쪽에서 잠김</color>,<color=ff0000>反対側からロックされています</color>,<color=ff0000>Заблоковано з іншого боку</color>,<color=ff0000>Diğer taraftan kilitli</color>
 HOVERTEXT:DOOR_PIT_LOCKED,<color=ff0000>Pearls with a fully functional Core must not be disposed of in the Pit.</color>,<color=ff0000>Les Perles dont le processeur est pleinement fonctionnel ne doivent pas être jetées dans la Fosse.</color>,<color=ff0000>Perlen mit einem voll funktionsfähigen Kern dürfen nicht in der Grube entsorgt werden.</color>,<color=ff0000>Le Perle con un nucleo pienamente funzionante non devono essere smaltite nella Fossa.</color>,<color=ff0000>Las Perlas con un núcleo plenamente funcional no deben desecharse en el Pozo.</color>,<color=ff0000>Las Perlas con un núcleo plenamente funcional no deben desecharse en la Fosa.</color>,<color=ff0000>As Pérolas com um núcleo totalmente funcional não devem ser descartadas na Vala.</color>,<color=ff0000>Perły z w pełni sprawnym rdzeniem nie wolno wrzucać do Nory.</color>,<color=ff0000>Жемчужины с полностью исправным ядром не подлежат утилизации в Колодце.</color>,<color=ff0000>具有正常運作核心的珍珠不得丟入深坑。</color>,<color=ff0000>核心功能完好的「珠」不得被丢入深渊。</color>,<color=ff0000>완전히 정상 작동하는 코어를 가진 진주는 구덩이에 폐기해서는 안 됩니다.</color>,<color=ff0000>完全に機能するコアを持つパールは、深淵に廃棄してはならない。</color>,<color=ff0000>Перлини з повністю справним ядром не можна утилізувати в Ямі.</color>,<color=ff0000>Tam işlevsel çekirdeğe sahip İnciler Çukur'a atılamaz.</color>
@@ -36,7 +36,7 @@ HOVERTEXT:DOOR_TOO_FAR,<color=ff0000>Out of range</color>,<color=ff0000>Hors de 
 HOVERTEXT:ELEVATOR_CALL,<Btn_interact> Operate,<Btn_interact> Actionner,<Btn_interact> Bedienen,<Btn_interact> Aziona,<Btn_interact> Activar,<Btn_interact> Operar,<Btn_interact> Operar,<Btn_interact> Obsługuj,<Btn_interact> Использовать,<Btn_interact>操作,<Btn_interact> 操作,<Btn_interact> 작동,<Btn_interact>操作する,<Btn_interact> Використати,Çalıştır: <Btn_interact>
 HOVERTEXT:ELEVATOR_INTERACT,<Btn_interact> Use elevator,<Btn_interact> Utiliser l’ascenseur,<Btn_interact> Aufzug benutzen,Usa ascensore <Btn_interact>,Usar el ascensor <Btn_interact>,Usar ascensor <Btn_interact>,Usar elevador <Btn_interact>,<Btn_interact> użyj windy,Использовать лифт <Btn_interact>,<Btn_interact>使用電梯,使用升降机 <Btn_interact>,승강기 사용 <Btn_interact>,<Btn_interact>エレベーターを使う,Використати ліфт <Btn_interact>,Asansörü kullan: <Btn_interact>
 HOVERTEXT:ELEVATOR_OBSTRUCTED,Elevator obstructed,Ascenseur bloqué,Aufzug versperrt,Ascensore ostruito,Ascensor obstruido,Ascensor obstruido,Elevador obstruído,Winda jest zablokowana,Лифт заблокирован,電梯遭阻擋,升降机阻塞,차단된 승강기,エレベーターが止まっています,Ліфт заблоковано,Asansör engellenmiş
-HOVERTEXT:ELEVATOR_TITLE,Elevator ,Ascenseur,Aufzug,Ascensore,Ascensor,Ascensor,Elevador,Winda,Лифт,電梯,升降机,승강기,エレベーター,Ліфт,Asansör
+HOVERTEXT:ELEVATOR_TITLE,Elevator,Ascenseur,Aufzug,Ascensore,Ascensor,Ascensor,Elevador,Winda,Лифт,電梯,升降机,승강기,エレベーター,Ліфт,Asansör
 HOVERTEXT:FAST_TRAVEL_INTERACT,<Btn_interact> Travel,<Btn_interact> Se téléporter,<Btn_interact> Reisen,Viaggia <Btn_interact>,Viajar <Btn_interact>,Viajar <Btn_interact>,Viajar <Btn_interact>,<Btn_interact> Przemieść Się,Перемещение <Btn_interact>,<Btn_interact>快速移動,前往 <Btn_interact>,여행 <Btn_interact>,<Btn_interact>トラベル,Іти <Btn_interact>,Seyahat Et: <Btn_interact>
 HOVERTEXT:FLASH_OPEN,<Btn_interact> Open,<Btn_interact> Ouvrir,<Btn_interact> Öffnen,Apri <Btn_interact>,Abrir <Btn_interact>,Abrir <Btn_interact>,Abrir <Btn_interact>,Otwórz <Btn_interact>,Открыть <Btn_interact>,<Btn_interact>開啟,打开 <Btn_interact>,열기 <Btn_interact>,<Btn_interact>開く,Відкрити <Btn_interact>,Aç: <Btn_interact>
 HOVERTEXT:GOOD_BUZZER_DEAD,%D,%D,%D,%D,%D,%D,%D,%D,%D,%D,%D,%D,%D,%D,%D
@@ -44,7 +44,7 @@ HOVERTEXT:GOOD_BUZZER_REPARING,Status: Reviving...,État : Réanimation en cour
 HOVERTEXT:INTERACT_GENERIC,<Btn_interact> Interact,<Btn_interact> Interagir,<Btn_interact> Interagieren,Interagisci <Btn_interact>,Interactuar <Btn_interact>,Interactuar <Btn_interact>,Interagir <Btn_interact>,<Btn_interact> Interakcja,Взаимодействовать <Btn_interact>,<Btn_interact>互動,互动 <Btn_interact>,상호작용 <Btn_interact>,<Btn_interact>インタラクト,Взаємодіяти <Btn_interact>,Etki̇leşi̇me Gi̇r: <Btn_interact>
 HOVERTEXT:LEVER,Lever,Levier,Hebel,Leva,Palanca,Palanca,Alavanca,Dźwignia,Рычаг,控制桿,控制杆,레버,レバー,Важіль,Kol
 HOVERTEXT:LOST_NACRE,Nacre droplets lost to the pond: <color=%D>%</color>,Gouttes de nacre transmises au bassin : <color=%D>%</color>,Im Teich verlorene Perlmutt-Tröpfchen: <color=%D>%</color>,Gocce di madreperla perse nello stagno: <color=%D>%</color>,Gotas de nácar perdidas en el estanque: <color=%D>%</color>,Gotas de nácar perdidas en el estanque: <color=%D>%</color>,Gotas de Madrepérola perdidas: <color=%D>%</color>,Utracone krople masy perłowej na rzecz stawu: <color=%D>%</color>,Капель перламутра ушло в пруд: <color=%D>%</color>,滴入池子的珍珠母液滴：<color=%D>%</color>,已注入水池的「母贝液滴」：<color=%D>%</color>,연못에 잃은 자개 방울: <color=%D>%</color>,池で失くしたナクレの雫：<color=%D>%</color>,Втрачено крапель перламутру для ставка: <color=%D>%</color>,Gölete verilen sedef damlacığı: <color=%D>%</color>
-HOVERTEXT:MAINTENANCE_ACTION_HOLD_REFILL,Hold to refill more layers of protection,Maintenir pour recharger plusieurs couches de protection,"Halten, um weitere Schutzschichten aufzufüllen",Tieni premuto per riempire più strati di protezione,Mantén pulsado para rellenar más capas protectoras.,Mantén presionado para recargar más capas de protección.,Segure para reabastecer mais camadas de proteção,"Przytrzymaj, aby uzupełnić więcej osłony","Удерживайте, чтобы восполнить больше защитных слоёв",按住即可補充更多層保護層,长按可补充更多防护层,길게 눌러 더 많은 방어막 충전,長押しでさらに多くの防護層を補充する,"Утримуйте, щоб відновити шари захисту",Daha fazla koruma katmanı doldurmak için basılı tut
+HOVERTEXT:MAINTENANCE_ACTION_HOLD_REFILL,Hold to refill more layers of protection,Maintenir pour recharger plusieurs couches de protection,Halten, um weitere Schutzschichten aufzufüllen,Tieni premuto per riempire più strati di protezione,Mantén pulsado para rellenar más capas protectoras.,Mantén presionado para recargar más capas de protección.,Segure para reabastecer mais camadas de proteção,Przytrzymaj, aby uzupełnić więcej osłony,Удерживайте, чтобы восполнить больше защитных слоёв,按住即可補充更多層保護層,长按可补充更多防护层,길게 눌러 더 많은 방어막 충전,長押しでさらに多くの防護層を補充する,Утримуйте, щоб відновити шари захисту,Daha fazla koruma katmanı doldurmak için basılı tut
 HOVERTEXT:MAINTENANCE_ACTION_OVERLOAD,<Btn_interact> Overload Protective Coat,<Btn_interact> Surcharger le Manteau de Protection,<Btn_interact> Schutzmantel überladen,<Btn_interact> Sovraccarica Strato protettivo,<Btn_interact> Capa protectora contra sobrecargas,<Btn_interact> Sobrecargar capa protectora,<Btn_interact> Sobrecarregar Camada protetora,<Btn_interact> Przeciąż Osłonę ochronną,<Btn_interact> Перегрузить защитный покров,<Btn_interact>超載保護層,<Btn_interact> 防护镀层过载,<Btn_interact> 방어 코팅 과부하,<Btn_interact>防護コートを限界まで補充する,<Btn_interact> Перевантажити захисне покриття,Koruyucu Manto'yu Aşırı Yükle: <Btn_interact>
 HOVERTEXT:MAINTENANCE_ACTION_REFILL,<Btn_interact> Refill Protective Coat,<Btn_interact> Recharger le Manteau de Protection,<Btn_interact> Schutzmantel auffüllen,<Btn_interact> Riempi Strato protettivo,<Btn_interact> Recarga de capa protectora,<Btn_interact> Recargar capa protectora,<Btn_interact> Recarregar Camada protetora,<Btn_interact> Naładuj Osłonę ochronną,<Btn_interact> Восполнить защитный покров,<Btn_interact>補充保護層,<Btn_interact> 补充防护镀层,<Btn_interact> 방어 코팅 충전,<Btn_interact>防護コートを補充する,<Btn_interact> Відновити захисне покриття,Koruyucu Manto'yu Tekrar Doldur: <Btn_interact>
 HOVERTEXT:MAINTENANCE_NACRE_COST,Required: % Nacre Droplets,Requis : % gouttes de nacre,Erforderlich: % Perlmutt Tröpfchen,Necessarie: % gocce di madreperla,Requerido: % de gotas de Nácar,Requisito: % gotas de nácar,Necessário: % Gotas de Madrepérola,Wymagane: Krople Masy Perłowej (%),Требуется капель перламутра: %,需要：% 珍珠母液滴,需要：% 个「母贝液滴」,필요: 자개 방울 %개,必要：ナクレの雫%個,Потрібно: % крапель перламутру,Gereken: % Sedef Damlacığı
@@ -53,16 +53,281 @@ HOVERTEXT:MAINTENANCE_POD_TITLE,Nacre basin,Fontaine de Nacre,Perlmutt-Becken,Va
 HOVERTEXT:MAINTENANCE_SHIELD_FULL,Protective Coat already at full capacity,Le Manteau de Protection a déjà atteint sa capacité maximale,Schutzmantel bereits auf voller Kapazität,Strato protettivo alla massima capacità,Capa protectora a pleno rendimiento,La capa protectora ya está al máximo.,A Camada protetora já está com a capacidade máxima,Osłona ochronna ma już pełną moc,Защитный покров уже полный.,保護層容量已滿,防护镀层已满,방어 코팅이 이미 최대 가동 중,防護コートはすでに最大容量に達しています,Захисне покриття вже на максимумі,Koruyucu Manto zaten tam kapasitede
 HOVERTEXT:MAINTENANCE_TRINKET_BLOCKED,<color=cc0000>Unusable because of a modifier</color>,<color=cc0000>Inutilisable suite à l'installation d'un modificateur</color>,<color=cc0000>Aufgrund eines Mods nicht verwendbar</color>,<color=cc0000>Instabile a causa di un modificatore</color>,<color=cc0000>Inutilizable debido a un modificador</color>,<color=cc0000>No se puede usar debido a una modificación.</color>,<color=cc0000>Não é possível usar por causa de um modificador</color>,<color=cc0000>Nie można użyć z powodu modyfikatora</color>,<color=cc0000>Невозможно использовать из-за модификатора</color>,<color=cc0000>由於調整裝置目前無法使用</color>,<color=cc0000>被某个调整元件关闭</color>,<color=cc0000>변형 요소로 인해 사용 불가</color>,<color=cc0000>モッドにより使用不可</color>,<color=cc0000>Не можна використати через модифікатор</color>,<color=cc0000>Bir modifikasyon nedeniyle kullanılamıyor</color>
 HOVERTEXT:NO,No,Non,Nein,No,No,No,Não,Nie,Нет,否,否,아니요,いいえ,Ні,Hayir
+HOVERTEXT:PEARL_ATTUNED_AMYTIS,Status: Attuned
+Amytis: 4th Incumbent
+Embedding: 651 years ago,État : Accordé·e
+Amytis : Aspirant·e N°4
+Sertissage il y a : 651 ans,Status: Eingestimmt
+Amytis: 4. Inhaber
+Einbettung: vor 651 Jahren,Stato: Armonizzato
+Amytis: 4ª Titolare
+Impianto: 651 anni fa,Estado: En sintonía
+Amytis: 4.º titular
+Incrustación: hace 651 años,Estado: sincronización completa
+Amitis: 4.º Portante
+Incrustación: hace 651 años,Status: Sintonizado
+Amytis: 4ª Incumbide
+Incorporação: 651 anos atrás,Status: Dostrojony
+Amytis: 4. Powołany
+Zanurzenie: 651 lat temu,Статус: связь установлена
+Амитис: 4-й распорядитель
+Встраивание: 651 год назад,狀態：已調和
+Amytis：第四位負珠者
+嵌入時間：651 年前,状态：已调谐
+艾米迪斯：第 4 任「履职者」
+「嵌合」时间：651 年前,상태: 조율됨
+아미티스: 4번째 책임자
+주입: 651년 전,ステータス：調和完了
+アミティス、4人目の結ばれしトラベラー
+融合、651年前,Статус: налаштовано
+Амітис: 4-й правитель
+Вбудовування: 651 рік тому,Durum: Uyumlu
+Amytis: 4. Yükümlü
+Birleşim: 651 yıl önce
+HOVERTEXT:PEARL_ATTUNED_ASMA,Status: Attuned
+Asma: 7th Incumbent
+Embedding: 710 years ago
+<color=f799a1>Site destroyed >2 years ago</color>,État : Accordée
+Asma : Aspirante N°7
+Sertissage il y a : 710 ans
+<color=f799a1>Site détruit il y a : > 2 ans</color>,Status: Eingestimmt
+Asma: 7. Inhaberin
+Einbettung: vor 710 Jahren
+<color=f799a1>Ort zerstört > vor 2 Jahren</color>,Stato: Armonizzato
+Asma: 7ª Titolare
+Impianto: 710 anni fa
+<color=f799a1>Sito distrutto > 2 anni fa</color>,Estado: En sintonía
+Asma: 7.º titular
+Incrustación: hace 710 años
+<color=f799a1>Sitio destruido hace más de 2 años</color>,Estado: sincronización completa
+Asma: 7.ª Portante
+Incrustación: hace 710 años
+<color=f799a1>Zona destruida hace más de 2 años</color>,Status: Sintonizado
+Asma: 7ª Incumbida
+Incorporação: 710 anos atrás
+<color=f799a1>Local destruído >2 anos atrás</color>,Status: Dostrojona
+Asma: 7. Powołana
+Zanurzenie: 710 lat temu
+<color=f799a1>Stanowisko zniszczone >2 lata temu</color>,Статус: связь установлена
+Азма: 7-й распорядитель
+Встраивание: 710 лет назад
+<color=f799a1>Участок уничтожен более 2 лет назад</color>,狀態：已調和
+Asma：第七位負珠者
+嵌入時間：710 年前
+<color=f799a1>所在位置已損毀 > 兩年前</color>,状态：已调谐
+阿丝玛：第 7 任「履职者」
+「嵌合」时间：710 年前
+<color=f799a1>站点已被摧毁，事发时间：至少 2 年前</color>,상태: 조율됨
+아스마: 7번째 책임자
+주입: 710년 전
+<color=f799a1>현장 파괴됨 >2년 전</color>,ステータス：調和完了
+アスマ、7人目の結ばれしトラベラー
+融合、710年前
+<color=f799a1>サイトは2年前に破壊されました</color>,Статус: налаштовано
+Асма: 7-й правитель
+Вбудовування: 710 років тому
+<color=f799a1>Ділянку знищено >2 роки тому</color>,Durum: Uyumlu
+Asma: 7. Yükümlü
+Birleşim: 710 yıl önce
+<color=f799a1>Bölge, 2 yıldan uzun bir süre önce yok edildi</color>
+HOVERTEXT:PEARL_ATTUNED_HALYN,Status: Attuned
+Halyn: 12th Incumbent
+Embedding: 637 years ago,État : Accordée
+Halyn : Aspirante N°12
+Sertissage il y a : 637 ans,Status: Eingestimmt
+Halyn: 12. Inhaberin
+Einbettung: vor 637 Jahren,Stato: Armonizzato
+Halyn: 12ª Titolare
+Impianto: 637 anni fa,Estado: En sintonía
+Halyn: 12.º titular
+Incrustación: hace 637 años,Estado: sincronización completa
+Halyn: 12.ª Portante
+Incrustación: hace 637 años,Status: Sintonizado
+Halyn: 12ª Incumbida
+Incorporação: 637 anos atrás,Status: Dostrojona
+Halyn: 12. Powołana
+Zanurzenie: 637 lat temu,Статус: связь установлена
+Халин: 12-й распорядитель
+Встраивание: 637 лет назад,狀態：已調和
+Halyn：第十二位負珠者
+嵌入時間：637 年前,状态：已调谐
+海琳：第 9 任「履职者」
+「嵌合」时间：637 年前,상태: 조율됨
+헤일린: 12번째 책임자
+주입: 637년 전,ステータス：調和完了
+ハリン、12人目の結ばれしトラベラー
+融合、637年前,Статус: налаштовано
+Хейлін: 12-й правитель
+Вбудовування: 637 років тому,Durum: Uyumlu
+Halyn: 12. Yükümlü
+Birleşim: 637 yıl önce
+HOVERTEXT:PEARL_ATTUNED_LIHO,Status: Attuned
+Liho: 15th Incumbent
+Embedding: 577 years ago,État : Accordé
+Liho : Aspirant N°15
+Sertissage il y a : 577 ans,Status: Eingestimmt
+Liho: 15. Inhaber
+Einbettung: vor 577 Jahren,Stato: Armonizzato
+Liho: 15º Titolare
+Impianto: 577 anni fa,Estado: Sintonizado
+Liho: 15.º titular
+Incorporación: hace 577 años,Estado: sincronización completa
+Liho: 15.º Portante
+Incrustación: hace 577 años,Status: Sintonizado
+Liho: 15º Incumbido
+Incorporação: 577 anos atrás,Status: Dostrojona
+Liho: 15. Powołany
+Zanurzenie: 577 lata temu,Статус: связь установлена
+Лихо: 15-й распорядитель
+Встраивание: 577 лет назад,狀態：已調和
+Liho：第十五位負珠者
+嵌入時間：577 年前,状态：已调谐
+利霍：第 15 任「履职者」
+「嵌合」时间：577 年前,상태: 조율됨
+리호: 15번째 책임자
+주입: 577년 전,ステータス：調和完了
+リホ、15人目の結ばれしトラベラー
+融合、577年前,Статус: налаштовано
+Ліхо: 15-й правитель
+Вбудовування: 577 роки тому,Durum: Uyumlu
+Liho: 15. Yükümlü
+Birleşim: 577 yıl önce
+HOVERTEXT:PEARL_ATTUNED_NODEN,Status: Attuned
+Noden: 21st Incumbent
+Embedding: 523 years ago
+Already on Site.,État : Accordé
+Noden : Aspirant N°21
+Sertissage il y a : 523 ans
+Déjà sur site.,Status: Eingestimmt
+Noden: 21. Inhaber
+Einbettung: vor 523 Jahren
+Bereits vor Ort.,Stato: Armonizzato
+Noden: 21º Titolare
+Impianto: 523 anni fa
+Già al sito.,Estado: En sintonía
+Nodo: titular número 21
+Incrustación: hace 523 años
+Ya en el sitio.,Estado: sincronización completa
+Noden: 21.º Portante
+Incrustación: hace 523 años
+Zona actual.,Status: Sintonizado
+Noden: 21º Incumbido
+Incorporação: 523 anos atrás
+Já no local,Status: Dostrojony
+Noden: 21. Powołany
+Zanurzenie: 523 lat temu
+Już na stanowisku.,Статус: связь установлена
+Ноден: 21-й распорядитель
+Встраивание: 523 года назад
+Сейчас вы находитесь здесь.,狀態：已調和
+Noden：第二十一位負珠者
+嵌入時間：523 年前
+已在位置上。,状态：已调谐
+诺登：第 21 任「履职者」
+「嵌合」时间：523 年前
+已在现场。,상태: 조율됨
+노덴: 21번째 책임자
+주입: 523년 전
+이미 현장에 있음.,ステータス：調和完了
+ノーデン、21人目の結ばれしトラベラー
+融合、523年前
+サイト到着済み,Статус: налаштовано
+Ноден: 21-й правитель
+Вбудовування: 523 років тому
+Вже на місці.,Durum: Uyumlu
+Noden: 21. Yükümlü
+Birleşim: 523 yıl önce
+Zaten Bölgede.
+HOVERTEXT:PEARL_UNKNOWN_AMYTIS,Status: <color=f799a1>Unknown</color>
+<Btn_interact> Inquire,État : <color=f799a1>Inconnu</color>
+<Btn_interact> Demande d’informations,Status: <color=f799a1>Unbekannt</color>
+<Btn_interact> Anfragen,Stato: <color=f799a1>Sconosciuto</color>
+<Btn_interact> Indaga,Estado: <color=f799a1>Desconocido</color>
+<Btn_interact> Consultar,Estado: <color=f799a1>desconocido</color>
+<Btn_interact> Consultar,Status: <color=f799a1>Desconhecido</color>
+<Btn_interact> Investigar,Status: <color=f799a1>Nieznany</color>
+<Btn_interact> Wyślij zapytanie,Статус: <color=f799a1>неизвестно</color>
+<Btn_interact> Обследовать,狀態：<color=f799a1>未知</color>
+<Btn_interact>調查,状态：<color=f799a1>未知</color>
+<Btn_interact> 查询,상태: <color=f799a1>알 수 없음</color>
+<Btn_interact> 문의,ステータス：<color=f799a1>不明</color>
+<Btn_interact>詳細を確認,Статус: <color=f799a1>невідомо</color>
+<Btn_interact> Запитати,Durum: <color=f799a1>Bilinmiyor</color>
+Sorgula: <Btn_interact>
+HOVERTEXT:PEARL_UNKNOWN_ASMA,Status: <color=f799a1>Unknown</color>
+<Btn_interact> Inquire,État : <color=f799a1>Inconnu</color>
+<Btn_interact> Demande d’informations,Status: <color=f799a1>Unbekannt</color>
+<Btn_interact> Anfragen,Stato: <color=f799a1>Sconosciuto</color>
+<Btn_interact> Indaga,Estado: <color=f799a1>Desconocido</color>
+<Btn_interact> Consultar,Estado: <color=f799a1>desconocido</color>
+<Btn_interact> Consultar,Status: <color=f799a1>Desconhecido</color>
+<Btn_interact> Investigar,Status: <color=f799a1>Nieznany</color>
+<Btn_interact> Wyślij zapytanie,Статус: <color=f799a1>неизвестно</color>
+<Btn_interact> Обследовать,狀態：<color=f799a1>未知</color>
+<Btn_interact>調查,状态：<color=f799a1>未知</color>
+<Btn_interact> 查询,상태: <color=f799a1>알 수 없음</color>
+<Btn_interact> 문의,ステータス：<color=f799a1>不明</color>
+<Btn_interact>詳細を確認,Статус: <color=f799a1>невідомо</color>
+<Btn_interact> Запитати,Durum: <color=f799a1>Bilinmiyor</color>
+Sorgula: <Btn_interact>
+HOVERTEXT:PEARL_UNKNOWN_HALYN,Status: <color=f799a1>Unknown</color>
+<Btn_interact> Inquire,État : <color=f799a1>Inconnu</color>
+<Btn_interact> Demande d’informations,Status: <color=f799a1>Unbekannt</color>
+<Btn_interact> Anfragen,Stato: <color=f799a1>Sconosciuto</color>
+<Btn_interact> Indaga,Estado: <color=f799a1>Desconocido</color>
+<Btn_interact> Consultar,Estado: <color=f799a1>desconocido</color>
+<Btn_interact> Consultar,Status: <color=f799a1>Desconhecido</color>
+<Btn_interact> Investigar,Status: <color=f799a1>Nieznany</color>
+<Btn_interact> Wyślij zapytanie,Статус: <color=f799a1>неизвестно</color>
+<Btn_interact> Обследовать,狀態：<color=f799a1>未知</color>
+<Btn_interact>調查,状态：<color=f799a1>未知</color>
+<Btn_interact> 查询,상태: <color=f799a1>알 수 없음</color>
+<Btn_interact> 문의,ステータス：<color=f799a1>不明</color>
+<Btn_interact>詳細を確認,Статус: <color=f799a1>невідомо</color>
+<Btn_interact> Запитати,Durum: <color=f799a1>Bilinmiyor</color>
+Sorgula: <Btn_interact>
+HOVERTEXT:PEARL_UNKNOWN_LIHO,Status: <color=f799a1>Unknown</color>
+<Btn_interact> Inquire,État : <color=f799a1>Inconnu</color>
+<Btn_interact> Demande d’informations,Status: <color=f799a1>Unbekannt</color>
+<Btn_interact> Anfragen,Stato: <color=f799a1>Sconosciuto</color>
+<Btn_interact> Indaga,Estado: <color=f799a1>Desconocido</color>
+<Btn_interact> Consultar,Estado: <color=f799a1>desconocido</color>
+<Btn_interact> Consultar,Status: <color=f799a1>Desconhecido</color>
+<Btn_interact> Investigar,Status: <color=f799a1>Nieznany</color>
+<Btn_interact> Wyślij zapytanie,Статус: <color=f799a1>неизвестно</color>
+<Btn_interact> Обследовать,狀態：<color=f799a1>未知</color>
+<Btn_interact>調查,状态：<color=f799a1>未知</color>
+<Btn_interact> 查询,상태: <color=f799a1>알 수 없음</color>
+<Btn_interact> 문의,ステータス：<color=f799a1>不明</color>
+<Btn_interact>詳細を確認,Статус: <color=f799a1>невідомо</color>
+<Btn_interact> Запитати,Durum: <color=f799a1>Bilinmiyor</color>
+Sorgula: <Btn_interact>
+HOVERTEXT:PEARL_UNKNOWN_NODEN,Status: <color=f799a1>Unknown</color>
+<Btn_interact> Inquire,État : <color=f799a1>Inconnu</color>
+<Btn_interact> Demande d’informations,Status: <color=f799a1>Unbekannt</color>
+<Btn_interact> Anfragen,Stato: <color=f799a1>Sconosciuto</color>
+<Btn_interact> Indaga,Estado: <color=f799a1>Desconocido</color>
+<Btn_interact> Consultar,Estado: <color=f799a1>desconocido</color>
+<Btn_interact> Consultar,Status: <color=f799a1>Desconhecido</color>
+<Btn_interact> Investigar,Status: <color=f799a1>Nieznany</color>
+<Btn_interact> Wyślij zapytanie,Статус: <color=f799a1>неизвестно</color>
+<Btn_interact> Обследовать,狀態：<color=f799a1>未知</color>
+<Btn_interact>調查,状态：<color=f799a1>未知</color>
+<Btn_interact> 查询,상태: <color=f799a1>알 수 없음</color>
+<Btn_interact> 문의,ステータス：<color=f799a1>不明</color>
+<Btn_interact>詳細を確認,Статус: <color=f799a1>невідомо</color>
+<Btn_interact> Запитати,Durum: <color=f799a1>Bilinmiyor</color>
+Sorgula: <Btn_interact>
 HOVERTEXT:SCRAP_FLAVOUR,Nacre Droplets can be salvaged from this.,Contient encore quelques gouttes de nacre.,Perlmutt-Tröpfchen könnten daraus geborgen werden.,Da qui possono essere recuperate delle gocce di madreperla.,De aquí se pueden rescatar gotas de nácar.,Se pueden recuperar gotas de nácar de esto.,Dá pra coletar Gotas de Madrepérola aqui.,Można z niej wydobyć Krople Masy Perłowej.,Можно извлечь капли перламутра.,可從中回收珍珠母液滴。,可以从这里回收「母贝液滴」。,여기에서 자개 방울을 회수할 수 있습니다.,ここからナクレの雫が取れる可能性もある。,Тут можна здобути краплі перламутру.,İçinden Sedef Damlacığı toplanabilir.
 HOVERTEXT:SCRAP_TITLE,Junk pile,Tas de détritus,Schrotthaufen,Pila di scarti,Montón de basura,Montón de chatarra,Pilha de lixo,Sterta śmieci,Куча мусора,垃圾堆,垃圾堆,폐기물 더미,ガラクタの山,Купа мотлоху,Hurda yığını
 HOVERTEXT:SHOP_CLOSED_GENERIC,<color=ff0000>Area not safe</color>,<color=ff0000>Zone non sécurisée</color>,<color=ff0000>bereich nicht sicher</color>,<color=ff0000>area non sicura</color>,<color=ff0000>zona no segura</color>,<color=ff0000>zona no segura</color>,<color=ff0000>área perigosa</color>,<color=ff0000>obszar nie jest bezpieczny</color>,<color=ff0000>зона небезопасна</color>,<color=ff0000>區域不安全</color>,<color=ff0000>区域危险</color>,<color=ff0000>안전하지 않은 구역</color>,<color=ff0000>危険なエリアです</color>,<color=ff0000>ділянка небезпечна</color>,<color=ff0000>bölge güvenli̇ deği̇l</color>
 HOVERTEXT:SHOP_OPEN_GENERIC,<Btn_interact> Open shop,<Btn_interact> Ouvrir la boutique,<Btn_interact> Shop öffnen,<Btn_interact> Apri negozio,<Btn_interact> Abrir tienda,<Btn_interact> Abrir taller,<Btn_interact> Abrir loja,<Btn_interact> Otwórz sklep,<Btn_interact> открыть магазин,<Btn_interact>開啟商店,<Btn_interact> 打开商店,<Btn_interact> 상점 열기,<Btn_interact>ショップを開く,<Btn_interact> відкрити магазин,Dükkâni aç: <Btn_interact>
 HOVERTEXT:SPIDER_OPEN,<Btn_spider> Open,<Btn_spider> Ouvrir,<Btn_spider> Öffnen,<Btn_spider> Apri,<Btn_spider> Abrir,<Btn_spider> Abrir,<Btn_spider> Abrir,<Btn_spider> Otwórz,<Btn_spider> Открыть,<Btn_spider>開啟,<Btn_spider> 打开,<Btn_spider> 열기,<Btn_spider>開く,<Btn_spider> Відкрити,Aç: <Btn_spider>
 HOVERTEXT:SWITCH_TITLE,Switch,Interrupteur,Schalter,Interruttore,Cambiar,Interruptor,Trocar,Przełącznik,Переключить,開關,开关,스위치,スイッチ,Перемкнути,Düğme
-HOVERTEXT:TUTO_DOUBLE_JUMP,Press <Btn_jump> twice to double jump,Appuyer sur <Btn_jump> pour faire un double saut,Für Doppelsprung <Btn_jump> zweimal drücken,Premi <Btn_jump> due volte per un doppio salto,Presionar <Btn_jump> dos veces para realizar un doble salto,Presiona <Btn_jump> dos veces para un doble salto,Pressione <Btn_jump> duas vezes para um salto duplo,"Naciśnij <Btn_jump>, aby wykonać podwójny skok","Дважды нажмите <Btn_jump>, чтобы совершить двойной прыжок.",按下<Btn_jump>兩次即可雙重跳躍,按 <Btn_jump> 两次即可二段跳,<Btn_jump> 두 번 눌러 이중 점프,<Btn_jump>を2回押してダブルジャンプ,"Двічі натисніть <Btn_jump>, щоб стрибнути двічі",<Btn_jump> ile çift zıpla
-HOVERTEXT:TUTO_HOOK,Hold <Btn_hook> to cast the Hairpin,Maintenir <Btn_hook> pour lancer l’Épingle,Zum Werfen der Haarnadel <Btn_hook> halten,Tieni premuto <Btn_hook> per lanciare la Forcina,Mantén presionado <Btn_hook> para lanzar la horquilla,Mantén presionado <Btn_hook> para lanzar la Horquilla,Mantenha <Btn_hook> pressionado para lançar o Grampo de cabelo,"Przytrzymaj <Btn_hook>, aby rzucić Spinką","Удерживайте <Btn_hook>, чтобы бросить шпильку.",按住<Btn_hook>即可施放髮簪,长按 <Btn_hook> 投掷发夹,<Btn_hook> 길게 눌러 머리핀 던지기,<Btn_hook>を長押ししてヘアピンを発動,"Утримуйте <Btn_hook>, щоб кинути шпильку",<Btn_hook> ile Toka'yı kullan
-HOVERTEXT:TUTO_JUMP,Press <Btn_jump> to jump,Appuyer sur <Btn_jump> pour sauter,Zum Springen <Btn_jump> drücken,Premi <Btn_jump> per saltare,Presionar <Btn_jump> para saltar,Presiona <Btn_jump> para saltar,Pressione <Btn_jump> para pular,"Naciśnij <Btn_jump>, aby skoczyć","Нажмите <Btn_jump>, чтобы прыгнуть.",按下<Btn_jump>即可跳躍,按 <Btn_jump> 跳跃,<Btn_jump> 눌러 점프,<Btn_jump>を押してジャンプ,"Натисніть <Btn_jump>, щоб стрибнути",<Btn_jump> ile zıpla
+HOVERTEXT:TUTO_DOUBLE_JUMP,Press <Btn_jump> twice to double jump,Appuyer sur <Btn_jump> pour faire un double saut,Für Doppelsprung <Btn_jump> zweimal drücken,Premi <Btn_jump> due volte per un doppio salto,Presionar <Btn_jump> dos veces para realizar un doble salto,Presiona <Btn_jump> dos veces para un doble salto,Pressione <Btn_jump> duas vezes para um salto duplo,Naciśnij <Btn_jump>, aby wykonać podwójny skok,Дважды нажмите <Btn_jump>, чтобы совершить двойной прыжок.,按下<Btn_jump>兩次即可雙重跳躍,按 <Btn_jump> 两次即可二段跳,<Btn_jump> 두 번 눌러 이중 점프,<Btn_jump>を2回押してダブルジャンプ,Двічі натисніть <Btn_jump>, щоб стрибнути двічі,<Btn_jump> ile çift zıpla
+HOVERTEXT:TUTO_HOOK,Hold <Btn_hook> to cast the Hairpin,Maintenir <Btn_hook> pour lancer l’Épingle,Zum Werfen der Haarnadel <Btn_hook> halten,Tieni premuto <Btn_hook> per lanciare la Forcina,Mantén presionado <Btn_hook> para lanzar la horquilla,Mantén presionado <Btn_hook> para lanzar la Horquilla,Mantenha <Btn_hook> pressionado para lançar o Grampo de cabelo,Przytrzymaj <Btn_hook>, aby rzucić Spinką,Удерживайте <Btn_hook>, чтобы бросить шпильку.,按住<Btn_hook>即可施放髮簪,长按 <Btn_hook> 投掷发夹,<Btn_hook> 길게 눌러 머리핀 던지기,<Btn_hook>を長押ししてヘアピンを発動,Утримуйте <Btn_hook>, щоб кинути шпильку,<Btn_hook> ile Toka'yı kullan
+HOVERTEXT:TUTO_JUMP,Press <Btn_jump> to jump,Appuyer sur <Btn_jump> pour sauter,Zum Springen <Btn_jump> drücken,Premi <Btn_jump> per saltare,Presionar <Btn_jump> para saltar,Presiona <Btn_jump> para saltar,Pressione <Btn_jump> para pular,Naciśnij <Btn_jump>, aby skoczyć,Нажмите <Btn_jump>, чтобы прыгнуть.,按下<Btn_jump>即可跳躍,按 <Btn_jump> 跳跃,<Btn_jump> 눌러 점프,<Btn_jump>を押してジャンプ,Натисніть <Btn_jump>, щоб стрибнути,<Btn_jump> ile zıpla
 HOVERTEXT:TUTO_ORB_HEAL,<Btn_spider> Grab,<Btn_spider> Attraper,<Btn_spider> Packen,<Btn_spider> Afferra,<Btn_spider> Agarrar,<Btn_spider> Tomar,<Btn_spider> Pegar,<Btn_spider> Weź,<Btn_spider> Взять,<Btn_spider>抓取,<Btn_spider> 拿取,<Btn_spider> 잡기,<Btn_spider>つかむ,<Btn_spider> Узяти,Al: <Btn_spider>
-HOVERTEXT:TUTO_SLASH,Press <Btn_slash> to strike,Appuyer sur <Btn_slash> pour frapper,Zum Zuschlagen <Btn_slash> drücken,Premi <Btn_slash> per colpire,Presionar <Btn_slash> para golpear,Presiona <Btn_slash> para atacar,Pressione <Btn_slash> para golpear,"Naciśnij <Btn_slash>, aby zaatakować","Нажмите <Btn_slash>, чтобы ударить.",按下<Btn_slash>即可攻擊,按 <Btn_slash> 发动突击,<Btn_slash> 눌러 타격,<Btn_slash>を押して攻撃,"Натисніть <Btn_slash>, щоб ударити",<Btn_slash> ile saldır
+HOVERTEXT:TUTO_SLASH,Press <Btn_slash> to strike,Appuyer sur <Btn_slash> pour frapper,Zum Zuschlagen <Btn_slash> drücken,Premi <Btn_slash> per colpire,Presionar <Btn_slash> para golpear,Presiona <Btn_slash> para atacar,Pressione <Btn_slash> para golpear,Naciśnij <Btn_slash>, aby zaatakować,Нажмите <Btn_slash>, чтобы ударить.,按下<Btn_slash>即可攻擊,按 <Btn_slash> 发动突击,<Btn_slash> 눌러 타격,<Btn_slash>を押して攻撃,Натисніть <Btn_slash>, щоб ударити,<Btn_slash> ile saldır
 HOVERTEXT:UNSAFE,Area not safe,Zone non sécurisée,Bereich nicht sicher,Area non sicura,Zona no segura,Zona no segura,Área perigosa,Obszar nie jest bezpieczny,Зона небезопасна,區域不安全,区域危险,안전하지 않은 구역,危険なエリアです,Ділянка небезпечна,Bölge güvenli̇ deği̇l
 HOVERTEXT:YES,Yes,Oui,Ja,Sì,Sí,Sí,Sim,Tak,Да,是,是,예,はい,Так,Evet

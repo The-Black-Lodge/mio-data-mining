@@ -1,0 +1,559 @@
+ITEM_FLAVOUR_VOICE:AMYTIS,You can barely feel its presence inside you. 
+Only when you stay steady long enough, 
+
+
+                          careful, 
+
+
+                                                     and patient, 
+
+
+can you hope to discern the faintest sigh.,Vous ressentez à peine sa présence en vous. 
+Ce n'est que lorsque vous restez immobile, 
+
+
+                          attentive,
+
+
+                                                    et patiente 
+
+
+que vous avez une chance de saisir l'ombre d'un soupir.,Du kannst die Präsenz in dir kaum fühlen.
+Nur, wenn du lange genug ruhig bleibst,
+
+
+                          sorgsam, 
+
+
+                                                     und geduldig, 
+
+
+hast du Hoffnung, das schwache Seufzen wahrzunehmen.,Puoi appena sentire la sua presenza dentro di te. 
+ Solo se resti senza muoverti, 
+ 
+ 
+                           fai attenzione 
+ 
+ 
+                                                              e sei paziente, 
+ 
+ 
+ allora puoi sperare di sentire il minimo sospiro.,Apenas puedes sentir su presencia dentro de ti. 
+ Sólo cuando te mantienes firme el tiempo suficiente, 
+ 
+ 
+                           cuidadoso, 
+ 
+ 
+                                                   y paciente, 
+ 
+ 
+ puedes esperar discernir el más leve suspiro.,Apenas puedes sentir su presencia dentro de ti. 
+ Solo cuando permaneces quieta lo suficiente, 
+ 
+ 
+                           atenta 
+ 
+ 
+                                                 y paciente, 
+ 
+ 
+ tienes la esperanza de discernir el más leve suspiro.,Você mal consegue sentir a presença dela dentro de si. 
+ Só quando você se mantém parada por tempo suficiente, 
+ 
+ 
+                            com cuidado, 
+ 
+ 
+                                                         e paciência, 
+ 
+ 
+ você pode esperar discernir o mais leve suspiro.,Ledwo czujesz tę obecność w sobie. 
+ Tylko wtedy, gdy pozostajesz nieruchoma wystarczająco długo, 
+ 
+ 
+                            ostrożna, 
+ 
+ 
+                                                                cierpliwa i wytrwała, 
+ 
+ 
+ możesz mieć nadzieję, że wykryjesz lekkie westchnienie.,Вы едва ощущаете его присутствие внутри себя.
+ Только когда вы достаточно долго остаётесь недвижимы,
+ 
+ 
+                            осторожность
+ 
+ 
+                                                       и терпение.
+ 
+ 
+ С ними можно различить даже самый лёгкий вздох.,你幾乎感覺不到它的存在。
+ 唯有你保持夠久的平靜，
+ 
+ 
+                            小心翼翼，
+ 
+ 
+                                               耐心等候，
+ 
+ 
+ 你才可能聽見它最輕微的嘆息。,你几乎感觉不到它在你体内的存在。
+ 只有当你维持很长时间的稳定，
+ 
+ 
+                            谨慎，
+ 
+ 
+                                       和耐心，
+ 
+ 
+ 你才能抓住一点点希望，分辨出最微弱的叹息。,네 안의 그 존재는 거의 느껴지지 않는 존재이다. 
+ 충분히 오래 가만히 있어야, 
+ 
+ 
+                            조심스럽게, 
+ 
+ 
+                                                            인내심을 가져야, 
+ 
+ 
+ 그래야만 그 희미한 한숨을 알아챌 수 있지.,その存在を自分の中に感じることは、ほとんどできない。
+ただ、静かに、じっとしていれば、
+
+
+……………慎重に、
+
+
+……………そして忍耐強く……
+
+
+そうすれば、かすかな吐息を感じ取れるかもしれない。,Їхню присутність всередині заледве можна відчути. 
+ Лише якщо міцно стоїш достатньо довго, 
+ 
+ 
+                            обережно, 
+ 
+ 
+                                                  та терпляче, 
+ 
+ 
+ можна сподіватися розпізнати найлегший видих.,İçindeki varlığını zar zor hissediyorsun. 
+ Yalnızca yeterince sabit, 
+ 
+ 
+                            dikkatli 
+ 
+ 
+                                               ve sabırlı 
+ 
+ 
+ olduğunda ufacık bir sesi ayırt edebiliyorsun.
+ITEM_FLAVOUR_VOICE:ASMA,It was always with you. 
+Even when it was garbled 
+and broken, 
+even when it was just out of your reach, 
+its presence never left your side. 
+
+And it never will.,Elle a toujours été là, avec vous. 
+Aussi brouillée, 
+aussi brisée qu'elle ait pu être, 
+même lorsqu'elle vous semblait hors de votre portée, 
+sa présence n'a jamais quitté vos côtés. 
+
+Et jamais elle ne le fera.,Sie war stets bei dir.
+Selbst als sie entstellt
+und kaputt war,
+selbst als sie außer Reichweite war,
+sie hat dich nie verlassen.
+
+Und das wird sie auch niemals.,Era sempre con te. 
+Anche quando non si capiva 
+ed era rotta, 
+anche quando era appena fuori portata, 
+la sua presenza non ti ha mai abbandonato. 
+
+E non lo farà mai.,Siempre estuvo contigo. 
+Incluso cuando estaba distorsionado 
+y roto, 
+incluso cuando estaba fuera de tu alcance, 
+su presencia nunca te abandonó. 
+
+Y nunca lo hará.,Siempre estuvo contigo. 
+Incluso cuando estaba informe 
+y rota, 
+incluso cuando estaba justo fuera de tu alcance, 
+su presencia nunca se alejó de ti. 
+
+Y nunca lo hará.,Ela sempre esteve com você. 
+Mesmo quando estava corrompida 
+e quebrada, 
+mesmo quando parecia fora do seu alcance, 
+sua presença nunca te abandonou. 
+
+E nunca vai abandonar.,Zawsze był z tobą. 
+Nawet gdy był zniekształcony 
+i uszkodzony, 
+nawet gdy był poza twoim zasięgiem, 
+jego obecność nigdy cię nie opuściła. 
+
+I nigdy nie opuści.,Он всегда был с вами.
+Даже когда он был исковеркан
+и разбит.
+Даже когда он был недосягаем.
+Вы всегда ощущали его присутствие.
+
+И он всегда останется с вами.,它一直都在你身邊。
+即便它曾經雜訊重重、
+破碎不堪，
+即便它總是那麼遙不可及，
+它從未離開過你。
+
+也永遠不會。,它一直都在你身边。
+就算它时而会语无伦次、
+支离破碎，
+就算它时而会遥不可及，
+它的存在从未离开过你的身旁。
+
+而且它永远都不会离开。,그건 항상 너와 함께했다. 
+혼란했을 때도, 
+망가졌을 때도, 
+닿을 수 없는 거리에 있을 때도, 
+그 존재는 네 곁을 떠난 적이 없지. 
+
+그리고 앞으로도 그럴 것이다.,それは、いつもあなたのそばにいた。
+どんなに歪み、
+どんなに壊れ、
+手の届かない場所にあったとしても、
+その存在は決してあなたを離れなかった。
+
+そして、これからもずっと。,Вона завжди з тобою. 
+Навіть коли був покручений 
+та зламаний, 
+навіть коли був недосяжним, 
+його присутність ніколи тебе не полишала. 
+
+І ніколи не полишить.,Her zaman seninleydi. 
+Karışmış 
+ve bozulmuşken bile, 
+tam ulaşamayacağın yerde olduğunda bile 
+varlığı asla yanından ayrılmadı. 
+
+Ve asla ayrılmayacak.
+ITEM_FLAVOUR_VOICE:HALYN,Its heavy presence judges your every move. 
+Is it still alive? 
+Or are you simply being self-conscious? 
+
+You will never know. 
+It's a part of you now.,Sa présence, pesante, juge vos moindres gestes. 
+Est-elle toujours en vie ? 
+Ou n'est-ce rien d'autre que vos complexes qui ressurgissent ? 
+
+Il n'y a aucun moyen de le savoir. 
+Elle fait partie de vous, désormais.,Das schwere Gefühl wirkt sich auf sämtliche Bewegungen aus.
+Ist es noch am Leben?
+Oder ist es bloß dein eigenes Selbstbewusstsein?
+
+Du wirst es nie erfahren.
+Es ist nun ein Teil von dir.,La sua pesante presenza giudica ogni tua mossa. 
+È ancora viva? 
+O hai preso solo coscienza di te stesso? 
+
+Non lo saprai mai. 
+Ora fa parte di te.,Su pesada presencia juzga cada uno de tus movimientos. 
+¿Sigue vivo? 
+¿O simplemente te sientes cohibido? 
+
+Nunca lo sabrás. 
+Ahora es parte de ti.,Su fuerte presencia juzga cada uno de tus movimientos. 
+¿Está viva? 
+¿O simplemente estás siendo autoconsciente? 
+
+Nunca lo sabrás. 
+Ahora es parte de ti.,Sua pesada presença julga todos os seus movimentos. 
+Será que ainda está viva? 
+Ou será que é a sua própria consciência falando? 
+
+Você nunca saberá. 
+Agora ela é uma parte de você.,Jego ciężka obecność ocenia każdy twój ruch. 
+Czy to coś wciąż żyje? 
+A może po prostu za dużo o tym myślisz? 
+
+Nigdy się nie dowiesz. 
+Teraz jest częścią ciebie.,Вы ощущаете, как он давит на вас со своей высоты, осуждая каждый ваш шаг.
+Он ещё жив?
+Или это просто вы слишком неуверенны в себе?
+
+Сложно сказать.
+И теперь он — ваша неотъемлемая часть.,它那沉重的存在審視著你每一個動作。
+它還活著嗎？
+還是其實是你侷促不安？
+
+你永遠也不會知道。
+它現在是你的一部分了。,它那沉重的存在审视着你的一举一动。
+它还活着吗？
+还是说，只是你的自我意识在作祟？
+
+你永远说不清楚。
+如今，它已成为你的一部分了。,그 무거운 존재가 네 모든 움직임을 평가한다. 
+여전히 살아있는 걸까? 
+아니면 네가 스스로 의식하는 걸까? 
+
+절대 모를 거야. 
+지금은 너의 일부가 됐지.,その重苦しい気配が、あなたの一挙手一投足を見定めている。
+まだ生きているというの？
+それとも、単に自分を意識しすぎているだけ？
+
+それは永遠に分からない。
+今や、それはあなたの一部となったのだから。,Її помітна присутність вирішує кожен твій рух. 
+Вона ще жива? 
+Чи ти просто маєш самосвідомість? 
+
+Ти ніколи не дізнаєшся.
+Тепер вона — частина тебе.,Ağır varlığıyla her hareketini yargılıyor. 
+Hâlâ yaşıyor mu? 
+Yoksa mahcubiyet hisseden sen misin? 
+
+Asla bilemeyeceksin. 
+Artık senin bir parçan.
+ITEM_FLAVOUR_VOICE:LIHO,It's a warm presence moving all around your systems. 
+It's a flow coursing through your circuits. 
+It's always in a rush, always buzzing. 
+It can never stop 
+never stop
+never stop
+never stop
+
+
+
+and neither can you.,C'est une présence chaleureuse qui habite chacun de vos systèmes. 
+C'est un flux qui traverse vos circuits internes. 
+Toujours hâtive, un murmure constant. 
+Elle ne peut pas s'arrêter 
+jamais
+jamais
+jamais
+
+
+
+et vous non plus.,Ein Gefühl der Wärme bewegt sich durch all deine Systeme.
+Es ist ein Fluss, der durch deine Kreise strömt.
+Immer in Eile, vor Eifer brummend.
+Es kann niemals aufhören
+niemals aufhören
+niemals aufhören
+niemals aufhören
+
+
+
+genau wie du selbst.,È una presenza calda che si muove nei tuoi sistemi. 
+È un flusso che attraversa i tuoi circuiti. 
+È sempre di corsa, sempre in movimento. 
+Non si può mai fermare 
+mai fermare
+mai fermare
+mai fermare
+
+
+
+e non puoi nemmeno tu.,Es una presencia cálida que se mueve por todos tus sistemas. 
+Es un flujo que recorre tus circuitos. 
+Siempre tiene prisa, siempre zumba. 
+Nunca puede parar 
+nunca puede parar
+nunca puede parar
+nunca puede parar
+
+
+
+y tú tampoco puedes.,Es una presencia cálida que se mueve a través de tus sistemas. 
+Es un flujo que recorre tus circuitos. 
+Siempre con prisa, siempre zumbando. 
+No puede parar 
+no puede parar
+no puede parar
+no puede parar
+
+
+
+ni tampoco tú.,É uma presença quente movendo-se por todos os sistemas. 
+É um fluxo percorrendo seus circuitos. 
+Está sempre com pressa, sempre vibrando. 
+Nunca pode parar 
+nunca parar
+nunca parar
+nunca parar
+
+
+
+você também não.,To ciepła obecność poruszająca się po wszystkich twoich systemach. 
+To strumień przepływający przez twoje obwody. 
+Zawsze się spieszy, zawsze brzęczy. 
+Nigdy, 
+przenigdy, 
+absolutnie nigdy nie może się zatrzymać, nigdy się nie zatrzyma,
+
+
+
+i ty też nie możesz.,Вы ощущаете, как по всем вашим системам разливается тепло.
+По дорожкам на микросхемах устремляется поток энергии.
+Он всегда в движении, всегда бурлит.
+Его не остановить
+не остановить
+не остановить
+не остановить
+
+
+
+как и вас.,那是一種在系統中四處流動的溫暖存在。
+是一道穿行於電路之間的電流。
+總是急促奔馳，嗡嗡響個不停。
+它永遠無法停止
+永遠無法停止
+永遠無法停止
+永遠無法停止
+
+
+
+而你也一樣無法停止。,这是一个十分温暖的存在，会在你的整个系统中四处流动。
+这是一股电流，会在你的电路中奔涌不停。
+它总是匆匆忙忙，总是风风火火。
+它永不停歇
+永不停歇
+永不停歇
+永不停歇
+
+
+
+而且，你也不能停歇。,너의 시스템 주위를 돌아다니는 따뜻한 존재이다. 
+너의 회로를 타고 흐르는 흐름이지. 
+언제나 바쁘게 움직이고, 언제나 웅웅거린다. 
+절대 멈춰선 안 돼 
+멈춰선 안 돼
+멈춰선 안 돼
+멈춰선 안 돼
+
+
+
+그리고 너 또한.,あなたのシステムを包み込む、ぬくもりの気配。
+回路を駆け抜ける、絶え間ない流れ。
+常に急ぎ、常にざわめき続ける。
+決して止まることはない。
+止まれない。
+止まれない。
+止まれない。
+
+
+
+あたまもまた、止まることは許されない。,Це тепло, що рухається по всіх системах. 
+Потік, що циркулює по схемах. 
+Вона завжди поспішає, завжди шумить. 
+Вона ніколи не зупиниться 
+не зупиниться
+не зупиниться
+не зупиниться
+
+
+
+як і ти.,Tüm sistemlerini çevreleyen sıcak bir varlık. 
+Devrelerinin arasında gezen bir akış. 
+Sürekli acelesi var, hep hareketli. 
+Asla duramıyor 
+asla duramıyor
+asla duramıyor
+asla duramıyor
+
+
+
+ve sen de duramıyorsun.
+ITEM_FLAVOUR_VOICE:NODEN,Torn. 
+Resolute. 
+Agonizing. 
+Unyielding. 
+Constantly flickering, both questioning the decisions and clinging to them. 
+
+Its presence falters in the face of consequences.,Tiraillée. 
+Résolue. 
+Déchirée. 
+Inflexible. 
+Toujours changeante, elle remet chaque décision en question et s'accroche à elles tout à la fois. 
+
+Sa présence vacille sous le poids des conséquences.,Zerrissen.
+Entschlossen.
+Quälend.
+Unbeugsam.
+Ständig im Wandel, deine Entscheidungen hinterfragend und sich an sie klammernd.
+
+Ihre Präsenz schwankt angesichts der Konsequenzen.,Combattuto. 
+Risoluto. 
+Tormentato. 
+Incrollabile. 
+In costante sfarfallio, dubita delle decisioni e vi si aggrappa allo stesso tempo. 
+
+La sua presenza vacilla di fronte alle conseguenze.,Desgarrado. 
+Resuelto. 
+Agonizante. 
+Inquebrantable. 
+Constantemente parpadeante, cuestionando las decisiones y aferrándose a ellas. 
+
+Su presencia flaquea ante las consecuencias.,Desgarrada. 
+Determinada. 
+Agonizante. 
+Inamovible. 
+En constante oscilación, cuestionando las decisiones y aferrándose a ellas al mismo tiempo. 
+
+Su presencia flaquea ante las consecuencias.,Dilacerada. 
+Resoluta. 
+Dolorosa. 
+Inabalável. 
+Oscilando constantemente, ao mesmo tempo questionando as decisões e se agarrando a elas. 
+
+Sua presença vacila diante das consequências.,Rozdarty. 
+Zdecydowany. 
+Bolesny. 
+Nieustępliwy. 
+Ciągle migoczący, jednocześnie kwestionujący decyzje i kurczowo się ich trzymający. 
+
+Jego obecność słabnie w obliczu konsekwencji.,Истерзанный.
+Непоколебимый.
+Страдающий.
+Несломленный.
+В постоянном колебании — одновременно сомневается в своих решениях и безоговорочно придерживается их.
+
+Боязливо сбиваясь перед лицом последствий.,撕裂。
+堅決。
+痛苦。
+執著。
+它不斷閃爍，一邊質疑決定，一邊緊抓不放。
+
+面對後果時，它的存在開始動搖。,撕裂。
+坚定。
+痛苦。
+不屈。
+始终举棋不定，既质疑决定的必要，又执着于履行决定。
+
+在面对后果时，其存在就变得摇摇欲坠。,찢기고. 
+결심하고. 
+고뇌하고. 
+버티고. 
+끊임없이 깜빡이고, 결정을 의심하면서도 그것에 매달린다. 
+
+그 존재는 결과를 직면하는 순간 흔들리지.,引き裂かれ、
+決然とし、
+苦悩し、
+そして不屈である。
+決断を疑いながらも、それにしがみつくのだ。
+
+その存在は、結果を前にして弱まっていく。,Розбите. 
+Рішуче. 
+В агонії. 
+Непохитне. 
+Завжди тремтить, одночасно сумнівається у рішеннях та тримається їх. 
+
+Його присутність слабшає перед зустріччю з наслідками.,Kopuk. 
+Azimli. 
+Cefalı. 
+İnatçı. 
+Sürekli yanıp sönerek hem kararları sorguluyor hem de onlara tutunuyor. 
+
+Sonuçlarla yüzleştiğinde varlığı bocalıyor.

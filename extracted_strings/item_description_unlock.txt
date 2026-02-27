@@ -1,0 +1,351 @@
+ITEM_DESCRIPTION_UNLOCK:BLOCK,An advanced module extending the core functions of Tendrils. 
+
+The Dodge makes use of the volatile nature of Tendrils to dissipate the wielder for a short instant.
+
+To use the Dodge, press <icon><Btn_parry></icon>.,Module d'amélioration avancé qui étend les fonctions principales des Filaments. 
+
+L'Esquive exploite la nature volatile des Filaments afin de faire disparaître sa porteuse pendant un court instant. 
+
+Pour exploiter l'Esquive, appuyez sur <icon><Btn_parry></icon>.,Ein fortschrittliches Modul zur Erweiterung der Kernfunktionen der Tentakel. 
+
+Das Ausweichen nutzt die unbeständige Natur der Tentakel und verflüchtigt die Nutzerin für einen kurzen Moment. 
+
+Nutze das Ausweichen, indem du <icon><Btn_parry></icon> drückst.,Un modulo avanzato che aumenta le funzioni principali dei Tentacoli. 
+
+La Schivata usa la natura volubile dei Tentacoli per far sparire l'utilizzatore per un breve momento. 
+
+Per usare la Schivata, premi <icon><Btn_parry></icon>.,Un módulo avanzado que amplía las funciones principales de los tentáculos. 
+
+La Esquiva aprovecha la naturaleza volátil de los tentáculos para disipar al portador por un breve instante. 
+
+Para usar la Esquiva, presiona <icon><Btn_parry></icon>.,Un módulo avanzado que amplía las funciones básicas de los Filamentos. 
+
+La Esquiva aprovecha la naturaleza volátil de los Filamentos para desintegrar al portador durante un breve instante. 
+
+Para usar la Esquiva, presiona <icon><Btn_parry></icon>.,Um módulo avançado que amplia as funções principais das Gavinhas. 
+
+A Esquiva faz uso da natureza volátil das Gavinhas para dissipar o portador por um breve instante. 
+
+Para usar a Esquiva, pressione <icon><Btn_parry></icon>.,Zaawansowany moduł rozszerzający podstawowe funkcje Kosmyków. 
+
+Unik wykorzystuje niestabilną naturę Kosmyków, aby sprawić, że użytkownik na chwilę „rozpływa się”. 
+
+Aby użyć Uniku, naciśnij <icon><Btn_parry></icon>.,Продвинутый модуль, расширяющий базовые функции усиков. 
+
+Уклонение использует нестабильную природу усиков, позволяя пользователю на миг рассеивать своё тело на мелкие частицы. 
+
+Чтобы использовать уклонение, нажмите <icon><Btn_parry></icon>.,延伸卷鬚核心功能的進階模組。
+
+閃躲會利用卷鬚的不穩定性，讓使用者瞬間消散。
+
+按下<icon><Btn_parry></icon>即可使用閃躲。,高级模块，可扩展卷须的核心功能。
+
+闪避可以利用卷须的不定型特性，让使用者暂时消散。
+
+按 <icon><Btn_parry></icon> 使用闪避。,덩굴손의 핵심 기능을 확장하는 고급 모듈입니다. 
+
+회피는 덩굴손의 휘발적인 특성을 이용하여 사용자를 짧은 순간 사라지게 합니다. 
+
+회피를 사용하려면 <icon><Btn_parry></icon>을(를) 누르세요.,触手の中核機能を拡張する高度なモジュール。
+
+回避は、触手の不安定な性質を利用し、使用者自身を一瞬だけ消散させる。 
+
+回避を使うには<icon><Btn_parry></icon>を押す。,Просунутий модуль, що розширює основні функції вусиків. 
+
+Ухилення використовує мінливість вусиків, щоб змусити власника розсіятись на мить. 
+
+Щоб використати ухилення, натисніть <icon><Btn_parry></icon>.,Filizlerin temel işlevlerini genişleten, ileri seviye bir modül. 
+
+Sıyrılma, Filizlerin dengesiz doğasından faydalanarak kullanıcının kısa bir süre boyunca yok olmasını sağlar. 
+
+Sıyrılmayı <icon><Btn_parry></icon> ile kullanabilirsin.
+ITEM_DESCRIPTION_UNLOCK:GLIDE,An advanced module extending the core functions of Tendrils. 
+
+The Sail deploys Tendrils all around the wielder's pearl, preventing the wielder from falling down for a short moment.
+
+To use the Sail, hold <icon><Btn_glide></icon>.,Module d'amélioration avancé qui étend les fonctions principales des Filaments. 
+
+La Voile déploie les Filaments autour de la perle de leur porteuse, lui évitant de chuter pendant un court moment.  
+
+Pour utiliser la Voile, maintenir <icon><Btn_glide></icon>.,Ein fortschrittliches Modul zur Erweiterung der Kernfunktionen der Tentakel.
+
+Das Segel setzt Tentakel rund um die Perle der Nutzerin ein, um diese für einen kurzen Moment vor einem Absturz zu bewahren.
+
+Nutze das Segel, indem du <icon><Btn_glide></icon> gedrückt hältst.,Un modulo avanzato che aumenta le funzioni principali dei Tentacoli. 
+
+La Vela sparge i Tentacoli intorno alla perla dell'utilizzatore, facendo sì che non cada per un breve momento.
+
+Per usare la Vela, tieni premuto <icon><Btn_glide></icon>.,Un módulo avanzado que amplía las funciones principales de los tentáculos. 
+
+La Vela despliega tentáculos alrededor de la Perla del portador, evitando que este se caiga por un breve instante.
+
+Para usar la Vela, mantén presionado <icon><Btn_glide></icon>.,Un módulo avanzado que amplía las funciones básicas de los Filamentos. 
+
+La Levitación despliega los Filamentos alrededor de la perla de su portadora, lo que evita que caiga al suelo durante un breve instante.
+
+Para usar la Levitación, mantén presionado <icon><Btn_glide></icon>.,Um módulo avançado que amplia as funções principais das Gavinhas.
+
+A Vela lança Gavinhas ao redor da pérola do usuário, impedindo que ele caia por um breve momento.
+
+Para usar a Vela, segure <icon><Btn_glide></icon>.,Zaawansowany moduł rozszerzający podstawowe funkcje Kosmyków. 
+
+Żagiel rozpościera Kosmyki wokół perły właściciela, zapobiegając przez krótki czas jego upadkowi.
+
+Aby użyć Żagla, przytrzymaj <icon><Btn_glide></icon>.,Продвинутый модуль, расширяющий базовые функции усиков.
+
+Парус распределяет усики вокруг жемчужины пользователя и на время останавливает падение.
+
+Чтобы использовать парус, удерживайте <icon><Btn_glide></icon>.,延伸卷鬚核心功能的進階模組。
+
+滑翔會在珍珠周圍展開卷鬚，讓使用者短暫懸浮，避免墜落。
+
+按住<icon><Btn_glide></icon>即可使用滑翔。,高级模块，可扩展卷须的核心功能。
+
+滑翔翼可以让使用者的「珠」周围的卷须全部展开，防止使用者坠落，持续一小段时间。
+
+长按 <icon><Btn_glide></icon> 使用滑翔翼。,덩굴손의 핵심 기능을 확장하는 고급 모듈입니다. 
+
+사용자의 진주 주변에 덩굴손을 펼쳐, 짧은 시간 동안 떨어지지 않게 만듭니다.
+
+돛을 사용하려면 <icon><Btn_glide></icon>을(를) 길게 누르세요.,触手の中核機能を拡張する高度なモジュール。
+
+セイリングは、使用者のパールの周囲に触手を展開し、短時間だけ落下を防ぐ。
+
+セイリングを使うには、<icon><Btn_glide></icon>を長押しする。,Просунутий модуль, що розширює основні функції вусиків. 
+
+Вітрило на мить розгортає вусики навколо перлини власника, щоб не дати йому впасти.
+
+Щоб скористатися вітрилом, утримуйте <icon><Btn_glide></icon>.,Filizlerin temel işlevlerini genişleten, ileri seviye bir modül. 
+
+Yelken, kullanıcının incisinin etrafına Filizler konuşlandırır ve kısa bir süre boyunca yere düşmesini engeller.
+
+Yelken'i kullanmak için <icon><Btn_glide></icon> ile basılı tut.
+ITEM_DESCRIPTION_UNLOCK:HIT_RECHARGE,An advanced module extending the core functions of Tendrils. 
+
+The Harvester is designed to absorb energy from a target by hitting it with Sharpened Tendrils.,Module d'amélioration avancé qui étend les fonctions principales des Filaments. 
+
+La Récolteuse permet d'absorber l'énergie d'une cible lors du contact avec les Filaments Affilés.,Ein fortschrittliches Modul zur Erweiterung der Kernfunktionen der Tentakel.
+
+Der Ernter dient zum Absorbieren von Energie eines Ziels, das du mit deinen geschärften Tentakeln getroffen hast.,Un modulo avanzato che aumenta le funzioni principali dei Tentacoli. 
+
+Il Raccoglitore è creato per assorbire energia da un bersaglio colpendolo con Tentacoli affilati.,Un módulo avanzado que amplía las funciones principales de los tentáculos. 
+
+El Cosechador está diseñado para absorber energía de un objetivo al golpearlo con tentáculos afilados.,Un módulo avanzado que amplía las funciones básicas de los Filamentos. 
+
+La Cosechadora está diseñada para absorber la energía de un objetivo al golpearlo con los Filamentos Cortantes.,Um módulo avançado que amplia as funções principais das Gavinhas. A Colheitadeira foi projetada para absorver energia de um alvo ao atingi-lo com Gavinhas afiadas.,Zaawansowany moduł rozszerzający podstawowe funkcje Kosmyków. 
+
+Żniwiarz został zaprojektowany tak, aby pochłaniać energię z celu, uderzając go zaostrzonymi końcami Kosmyków.,Продвинутый модуль, расширяющий базовые функции усиков.
+
+Коллектор позволяет поглощать энергию цели, атакуя ее заостренными усиками.,延伸卷鬚核心功能的進階模組。
+
+收割器會透過鋒利卷鬚擊中目標並吸取能量。,高级模块，可扩展卷须的核心功能。
+
+收割者的设计初衷是使用尖锐卷须命中目标，从目标身上吸收能量。,덩굴손의 핵심 기능을 확장하는 고급 모듈입니다. 
+
+수확기는 대상을 날카로운 덩굴손으로 타격해 에너지를 흡수하도록 설계되었습니다.,触手の中核機能を拡張する高度なモジュール。
+
+ハーベスターは、鋭利化した触手で対象を攻撃し、エネルギーを吸収する。,Просунутий модуль, що розширює основні функції вусиків. 
+
+Збирач розроблений, щоб поглинати енергію з цілі ударом загострених вусиків.,Filizlerin temel işlevlerini genişleten, ileri seviye bir modül. 
+
+Toplayıcı, bir hedefe Keskin Filizlerle vurarak ondan enerji soğurmak için tasarlanmıştır.
+ITEM_DESCRIPTION_UNLOCK:HOOK,An advanced module extending the core functions of Tendrils. 
+
+The Hairpin acts as a hook, projecting Tendrils toward a nearby energy source, such as units or Energy Shards, and allowing the wielder to quickly cross the distance to it.
+
+To use the Hairpin, press <icon><Btn_hook></icon>.,Module d'amélioration avancé qui étend les fonctions principales des Filaments. 
+
+L'Épingle agit comme un grappin. Elle permet de projeter les Filaments en direction d'une source d'énergie, typiquement des unités ou des Éclats d'énergie et de projeter rapidement le porteur dans cette direction. 
+
+Pour lancer l'Épingle, appuyer sur <icon><Btn_hook></icon>.,Ein fortschrittliches Modul zur Erweiterung der Kernfunktionen der Tentakel. 
+
+Die Haarnadel dient als Haken und schleudert Tentakel zu einer nahegelegenen Energiequelle, etwa Einheiten oder Energiescherben, und erlaubt es der Nutzerin, die Distanz dorthin schneller zu überbrücken.
+
+Drücke <icon><Btn_hook></icon>, um die Haarnadel einzusetzen.,Un modulo avanzato che estende le funzioni principali dei Tentacoli. 
+
+La Forcina funziona come uncino, proiettando Tentacoli verso una fonte di energia vicina, come unità o frammenti di energia, permettendo all'utilizzatore di attraversare velocemente la distanza.
+
+Per usare la Forcina, premi <icon><Btn_hook></icon>.,Un módulo avanzado que amplía las funciones principales de los Zarcillos. 
+
+La horquilla actúa como un gancho, proyectando Zarcillos hacia una fuente de energía cercana, como unidades o Fragmentos de energía, y permitiendo al portador cruzar rápidamente la distancia hacia ella.
+
+Para usar la horquilla, presiona <icon><Btn_hook></icon>.,Un módulo avanzado que amplía las funciones principales de los tentáculos. 
+
+La Horquilla funciona como un gancho que lanza los tentáculos hacia una fuente de energía cercana, como unidades o fragmentos de energía, y permite al portador recorrer rápidamente la distancia hasta ella.
+
+Para usar la Horquilla, presiona <icon><Btn_hook></icon>.,Um módulo avançado que amplia as principais funções das Gavinhas.
+
+O Grampo de cabelo funciona como um gancho, projetando as Gavinhas em direção a uma fonte de energia próxima, como unidades ou Fragmentos de energia, e permitindo que o portador atravesse rapidamente a distância até ela.
+
+Para usar o Grampo de cabelo, pressione <icon><Btn_hook></icon>.,Zaawansowany moduł rozszerzający podstawowe funkcje Kosmyków. 
+
+Spinka do włosów działa jak hak, kierując Kosmyki w stronę pobliskiego źródła energii, takiego jak jednostki lub Odłamki energii, i umożliwiając użytkownikowi szybkie pokonanie odległości do tego źródła.
+
+Aby użyć Spinki do włosów, naciśnij <icon><Btn_hook></icon>.,Продвинутый модуль, расширяющий базовые функции усиков.
+
+Шпилька действует как крюк, направляя усики к ближайшим источникам энергии вроде юнитов или энергетических осколков и позволяя пользователю быстро сокращать дистанцию до них.
+
+Чтобы использовать шпильку, нажмите <icon><Btn_hook></icon>.,延伸卷鬚核心功能的進階模組。
+
+髮簪的功能如同飛鉤，會將卷鬚射向附近的能量來源（例如裝置或能量碎片），讓使用者可以迅速拉近距離。
+
+按下<icon><Btn_hook></icon>即可使用髮簪。,高级模块，可扩展卷须的核心功能。
+
+发夹就像一个抓钩，将卷须伸到附近的能量源上，例如个体或能量碎片，还能让使用者快速穿过间隔，到达钩住的位置。
+
+按 <icon><Btn_hook></icon> 使用发夹。,덩굴손의 핵심 기능을 확장하는 고급 모듈입니다. 
+
+머리핀은 갈고리처럼 덩굴손을 유닛이나 에너지 파편 같은 근처의 에너지원으로 던져 소지자가 해당 위치로 빠르게 이동할 수 있게 해 줍니다.
+
+머리핀을 사용하려면 <icon><Btn_hook></icon>을(를) 누르세요.,触手の基本機能を拡張する高度なモジュール。
+
+ヘアピンはフックとして機能し、触手を近くのエネルギー源（ユニットやエネルギーのかけらなど）に向けて投射し、使用者がその距離を素早く移動できる。
+
+ヘアピンは、<icon><Btn_hook></icon>を押して使用する。,Просунутий модуль, що розширює основні функції вусиків. 
+
+Шпилька слугує гаком, простягаючи вусики до найближчого джерела енергії, наприклад юнітів чи уламків енергії, та дозволяє швидко наблизитися до нього.
+
+Щоб скористатися шпилькою, натисніть <icon><Btn_hook></icon>,,Filizlerin temel işlevlerini genişleten, ileri seviye bir modül. 
+
+Toka, yakındaki birim veya Enerji Parçası gibi enerji kaynaklarına Filizler yönelterek kullanıcının onlara kısa sürede ulaşmasını sağlayan bir kanca olarak çalışır.
+
+Toka'yı <icon><Btn_hook></icon> ile kullan.
+ITEM_DESCRIPTION_UNLOCK:MAP,<b>Permanent Installation.</b>
+Grants access to a map of all the locations this unit has visited,<b>Installation permanente.</b>
+Permet d’accéder à une carte de tous les endroits où s’est rendue cette unité.,<b>Dauerhafte Installation.</b>
+Gewährt Zugriff auf eine Karte mit allen Orten, die diese Einheit besucht hat.,<b>Installazione permanente.</b>
+Fornisce accesso a una mappa con tutti i luoghi visitati da questa unità.,<b>Instalación permanente.</b>
+Otorga acceso a un mapa de todas las ubicaciones que esta unidad ha visitado.,<b>Instalación permanente.</b>
+Otorga acceso a un mapa de todos los lugares que ha visitado esta unidad,<b>Instalação permanente.</b>
+Concede acesso a um mapa de todos os locais que esta unidade visitou,<b>Stała modyfikacja</b>
+Udziela dostępu do mapy wszystkich lokalizacji odwiedzonych przez tę jednostkę.,<b>Устанавливается навсегда.</b>
+Даёт доступ к карте уже посещённых мест.,<b>永久安裝。</b>
+安裝後即可存取地圖，顯示該裝置到訪過的所有地點。,<b>永久安装。</b>
+解锁地图，这张地图记录了该个体前往过的所有地点,<b>영구적으로 설치됩니다.</b>
+해당 유닛이 방문한 모든 장소의 지도를 이용할 수 있습니다.,<b>常設システム。</b>
+このユニットが訪れたすべてのマップにアクセスすることが可能。,<b>Постійна установка.</b>
+Надає доступ до карти всіх місць, які відвідав цей юніт,<b>Kalıcı Kurulum.</b>
+Bu birimin ziyaret ettiği tüm konumları içeren bir haritaya erişim sağlar
+ITEM_DESCRIPTION_UNLOCK:ORB_SHOOT,An advanced module extending the core functions of Tendrils. 
+
+The Slingshot uses the Sharpened Tendrils to cast a powerful energy blast when hitting Energy Shards.,Module d'amélioration avancé qui étend les fonctions principales des Filaments. 
+
+La Fronde exploite les Filaments Affilés pour produire une puissante décharge d'énergie à l'impact avec des Éclats d'énergie.,Ein fortschrittliches Modul zur Erweiterung der Kernfunktionen der Tentakel.
+
+Die Schleuder nutzt die geschärften Tentakel und schleudert beim Kontakt mit Energiescherben mächtige Energiesalven.,Un modulo avanzato che aumenta le funzioni principali dei Tentacoli. 
+
+La Fionda usa i Tentacoli affilati per lanciare un potente impulso di energia quando colpisci i frammenti di energia.,Un módulo avanzado que amplía las funciones principales de los tentáculos. 
+
+La Honda usa los tentáculos afilados para lanzar una poderosa explosión de energía al golpear Fragmentos de energía.,Un módulo avanzado que amplía las funciones básicas de los Filamentos. 
+
+La Catapulta utiliza los Filamentos Cortantes para lanzar una potente descarga de energía al impactar los fragmentos de energía.,Um módulo avançado que amplia as principais funções das Gavinhas.
+
+O Estilingue usa as Gavinhas afiadas para lançar uma poderosa explosão de energia ao atingir Fragmentos de energia.,Zaawansowany moduł rozszerzający podstawowe funkcje Kosmyków. 
+
+Proca używa Zaostrzonych kosmyków do rzucania potężnego wybuchu energii przy uderzaniu w Odłamki energii.,Продвинутый модуль, расширяющий базовые функции усиков.
+
+Используя заострённые усики, праща позволяет запускать мощные энергоразряды, атакуя энергетические осколки.,延伸卷鬚核心功能的進階模組。
+
+彈弓使用鋒利卷鬚擊中能量碎片時，會釋放強力能量衝擊波。,高级模块，可扩展卷须的核心功能。
+
+弹弓击中能量碎片时，可以使用尖锐卷须造成威力强大的能量爆炸。,덩굴손의 핵심 기능을 확장하는 고급 모듈입니다. 
+
+새총은 에너지 파편 타격 시 날카로운 덩굴손으로 강력한 에너지 폭발을 만들어냅니다.,触手の中核機能を拡張する高度なモジュール。
+
+スリングショットは、鋭利化した触手でエネルギーのかけらを叩くことで、強力なエネルギー弾を放つ。,Просунутий модуль, що розширює основні функції вусиків. 
+
+Рогатка використовує загострені вусики, щоб випускати потужні заряди з уламків енергії.,Filizlerin temel işlevlerini genişleten, ileri seviye bir modül. 
+
+Sapan, Keskin Filizleri kullanarak Enerji Parçalarına vururken güçlü bir enerji patlaması oluşturur.
+ITEM_DESCRIPTION_UNLOCK:SPIDER,An advanced module extending the core functions of Tendrils. 
+
+The Striders change Tendrils into legs and arms that can grab any surface, effectively allowing the wielder to walk on walls.
+
+To use the Striders, hold <icon><Btn_spider></icon>.,Module d'amélioration avancé qui étend les fonctions principales des Filaments. 
+
+Les Flâneuses transforment les Filaments en bras et jambes qui peuvent s'accrocher à n'importe quelle surface, permettant à la porteuse de marcher sur les murs. 
+
+Pour activer les Flâneuses, maintenir <icon><Btn_spider></icon>.,Ein fortschrittliches Modul zur Erweiterung der Kernfunktionen der Tentakel.
+
+Die Streicher verwandeln Tentakel in Arme und Beine, die auf allen Oberflächen Halt finden, weshalb die Nutzerin effektiv die Wände hochklettern kann.
+
+Nutze die Streicher, indem du <icon><Btn_spider></icon> gedrückt hältst.,Un modulo avanzato che aumenta le funzioni principali dei Tentacoli. 
+
+Granpasso cambia i Tentacoli in gambe e braccia che possono aggrapparsi a ogni superficie, permettendo all'utilizzatore di camminare sulle pareti.
+
+Per utilizzare Granpasso, tieni premuto <icon><Btn_spider></icon>.,Un módulo avanzado que amplía las funciones principales de los tentáculos. 
+
+Los Striders transforman a los tentáculos en piernas y brazos que pueden agarrar cualquier superficie, lo que permite al portador caminar sobre las paredes.
+
+Para usar los Striders, mantén presionado <icon><Btn_spider></icon>.,Un módulo avanzado que amplía las funciones básicas de los Filamentos. 
+
+Los Escaladores transforman los Filamentos en piernas y brazos que pueden adherirse a cualquier superficie, lo que permite a su portadora caminar por las paredes.
+
+Para usar los Escaladores, mantén presionado <icon><Btn_spider></icon>.,Um módulo avançado que amplia as principais funções das Gavinhas.
+
+Os Marchadores transformam as Gavinhas em pernas e braços que podem agarrar qualquer superfície, permitindo que o usuário caminhe sobre as paredes.
+
+Para usar os Marchadores, segure <icon><Btn_spider></icon>.,Zaawansowany moduł rozszerzający podstawowe funkcje Kosmyków. 
+
+Łaziki zmieniają Kosmyki w nogi i ramiona, które mogą chwytać dowolną powierzchnię, umożliwiając użytkownikowi chodzenie po ścianach.
+
+Aby użyć Łazików, przytrzymaj <icon><Btn_spider></icon>.,Продвинутый модуль, расширяющий базовые функции усиков.
+
+Стенолаз преобразует усики в конечности, способные цепляться за любую поверхность и фактически позволяющие ползать по стенам.
+
+Чтобы использовать стенолаз, удерживайте <icon><Btn_spider></icon>.,延伸卷鬚核心功能的進階模組。
+
+將卷鬚轉化為手腳，抓附於各種表面，讓使用者得以在牆面上行走。
+
+按住<icon><Btn_spider></icon>即可使用蛛行。,高级模块，可扩展卷须的核心功能。
+
+神行步可以将卷须变成腿和手臂，而且能抓住各种墙面，帮助使用者在墙壁上顺利行走。
+
+按 <icon><Btn_spider></icon> 使用神行步。,덩굴손의 핵심 기능을 확장하는 고급 모듈입니다. 
+
+소금쟁이는 덩굴손을 어떤 표면이든 잡을 수 있는 다리와 팔로 바꿔 벽을 걸을 수 있게 합니다.
+
+소금쟁이를 사용하려면 <icon><Btn_spider></icon>을(를) 길게 누르세요.,触手の中核機能を拡張する高度なモジュール。
+
+ストライダーは触手を手足のように変化させ、あらゆる面を掴んで歩けるようにする。
+
+ストライダーズを使うには、<icon><Btn_spider></icon>を長押しする。,Просунутий модуль, що розширює основні функції вусиків. 
+
+Блукачі змінюють вусики на руки й ноги, які можуть хапатися за будь-яку поверхню і одразу ж дозволяють власнику ходити по стінах.
+
+Щоб скористатися блукачами, утримуйте <icon><Btn_spider></icon>.,Filizlerin temel işlevlerini genişleten, ileri seviye bir modül. 
+
+Dokunaçlar, Filizleri her yüzeye tutunabilen bacaklara ve kollara dönüştürerek kullanıcının duvarlarda yürüyebilmesini sağlar.
+
+Dokunaçları <icon><Btn_spider></icon> ile basılı tutarak kullanabilirsin.
+ITEM_DESCRIPTION_UNLOCK:SPIDER_GOO,An advanced module extending the core functions of Tendrils. 
+
+The Flowing Steps lightens the Striders' Tendrils, allowing the wielder to walk even on liquid surfaces.,Module d'amélioration avancé qui étend les fonctions principales des Filaments. 
+
+Les Flotteuses allègent les Filaments des Flâneuses, permettant à leur porteuse de marcher sur des surfaces liquides.,Ein fortschrittliches Modul zur Erweiterung der Kernfunktionen der Tentakel.
+
+Die fließenden Schritte erleuchten die Streicher-Tentakel und erlauben es der Nutzerin, sich selbst auf flüssigen Oberflächen fortzubewegen.,Un modulo avanzato che aumenta le funzioni principali dei Tentacoli. 
+
+I Passi fluidi alleggeriscono i Tentacoli di Granpasso, permettendo all'utilizzatore di camminare anche sulle superfici liquide.,Un módulo avanzado que amplía las funciones principales de tentáculos. 
+
+Los Pasos Fluidos aligera los tentáculos de los Striders, permitiendo al portador caminar incluso sobre superficies líquidas.,Un módulo avanzado que amplía las funciones básicas de los Filamentos. 
+
+Los Pasos Fluidos aligeran los Escaladores de los Filamentos, lo que te permite caminar incluso por superficies líquidas.,Um módulo avançado que amplia as principais funções das Gavinhas.
+
+Os Passos fluidos tornam as Gavinhas dos Marchadores mais leves, permitindo que o usuário caminhe mesmo em superfícies líquidas.,Zaawansowany moduł rozszerzający podstawowe funkcje Kosmyków. 
+
+Nartnik zmniejsza wagę Kosmyków Łazików, pozwalając użytkownikowi chodzić nawet po płynnych powierzchniach.,Продвинутый модуль, расширяющий базовые функции усиков.
+
+Плавные шаги облегчают усики пользователя, позволяя передвигаться даже по жидким поверхностям.,延伸卷鬚核心功能的進階模組。
+
+水行會讓蛛行的卷鬚變得更加輕盈，讓使用者能在液體表面行走。,高级模块，可扩展卷须的核心功能。
+
+踏水步可以让神行步的卷须变轻，让使用者甚至可以在液体表面行走。,덩굴손의 핵심 기능을 확장하는 고급 모듈입니다. 
+
+물결 걸음은 소금쟁이의 덩굴손을 가볍게 만들어 액체 표면 위에서도 걸어 다닐 수 있게 해 줍니다.,触手の中核機能を拡張する高度なモジュール。
+
+フローイング・ステップはストライダーの触手を軽くし、液体の上さえも歩けるようにする。,Просунутий модуль, що розширює основні функції вусиків. 
+
+Легкий крок полегшує вусики-блукачі, щоб можна було ходити навіть по поверхні рідин.,Filizlerin temel işlevlerini genişleten, ileri seviye bir modül. 
+
+Akıcı Adımlar, Dokunaçların Filizlerini hafifleterek kullanıcının sıvı yüzeylerde bile yürüyebilmesini sağlar.

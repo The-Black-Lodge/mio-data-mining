@@ -1,0 +1,31 @@
+ITEM_DESCRIPTION_RESOURCE:EXTRA_SHIELDS,A small part of a unit's Protective Coat. 
+Combine 4 to permanently improve your Protective Coat's capacity.,Une pièce détachée pour le Manteau de Protection d'une unité.
+Combinez-en 4 pour augmenter la capacité de votre Manteau de Protection de manière permanente.,Ein kleiner Teil eines Schutzmantels einer Einheit.
+Kombiniere vier davon, um die Kapazitäten deines Schutzmantels dauerhaft zu verbessern.,Una piccola parte dello Strato protettivo di un'unità. 
+Combinane 4 per migliorare permanentemente la capacità del tuo Strato protettivo.,Una pequeña parte de la capa protectora de una unidad. 
+Combina 4 para mejorar permanentemente la capacidad de tu capa protectora.,Una pequeña parte de la Capa Protectora de una unidad. 
+Combina 4 para mejorar permanentemente la capacidad de tu Capa Protectora.,Uma pequena parte da Camada protetora de uma unidade. Combine 4 para melhorar permanentemente a capacidade de sua Camada protetora.,Niewielka część Powłoki ochronnej jednostki. 
+Połącz 4 elementy, aby trwale zwiększyć wydajność swojej Powłoki.,Небольшая часть защитного покрова юнита.
+Объедините 4 таких детали, чтобы на постоянной основе увеличить ёмкость вашего защитного покрова.,裝置保護層的一塊小零件。
+收集 4 個即可永久提升保護層容量。,某个个体的防护镀层的一小部分。
+收集 4 个就能永久提高你的防护镀层容量。,유닛 방어 코팅의 조그만 일부. 
+4개를 합치면 방어 코팅의 용량을 영구적으로 늘릴 수 있습니다.,ユニットの防護コートの小さな部品。
+4つ集めると、防護コートの容量が永久に強化される。,Частинка захисного покриття юніту. 
+Поєднайте 4 таких, щоб назавжди покращити потужність захисного покриття.,Bir birimin Koruyucu Manto'sunun küçük bir kısmı. 
+Bunlardan 4 tanesini birleştirerek Koruyucu Manto'nun kapasitesini kalıcı olarak artırabilirsin.
+ITEM_DESCRIPTION_RESOURCE:FULL_PEARLS,The precious pearl of a long dead unit. 
+Combined with nacre, it can be used to create new parts and repair broken modules.,La précieuse perle d’une unité depuis longtemps éteinte.
+Combinée à de la nacre, elle peut encore servir pour créer de nouvelles pièces ou réparer des modules cassés.,Die kostbare Perle einer längst verstorbenen Einheit.
+Kombiniert mit Perlmutt können mit ihr neue Teile hergestellt und kaputte Module repariert werden.,La preziosa perla di un'unità morta da tempo. 
+Unita alla madreperla, può essere usata per creare nuove parti e riparare moduli.,La preciosa perla de una unidad muerta hace mucho tiempo. 
+Junto con el nácar, se puede utilizar para crear nuevas piezas y reparar módulos rotos.,La valiosa perla de una unidad desconectada hace mucho tiempo. 
+En combinación con el nácar, se puede usar para crear partes nuevas y reparar módulos rotos.,A pérola preciosa de uma unidade morta há muito tempo.
+Juntamente com a Madrepérola, ela pode ser usada para criar novas peças e reparar módulos quebrados.,Cenna perła dawno nieistniejącej jednostki. 
+W połączeniu z masą perłową, można jej używać do tworzenia nowych części i naprawy uszkodzonych modułów.,Бесценная жемчужина давно умершего юнита.
+Если добавить перламутр, её можно использовать для создания новых деталей и восстановления повреждённых модулей.,已故裝置的珍貴珍珠。
+它可以和珍珠母一起用於製造新零件與修復損壞模組。,曾经十分珍贵的「珠」，是早已死去的个体留下的。
+将「珠」和母贝结合起来使用，就能制造新零件和修复损坏的模块。,오래전에 죽은 유닛의 귀중한 진주입니다. 
+자개와 결합하여 새로운 부분을 만들거나 망가진 모듈을 수리하는 데 사용할 수 있습니다.,長い間停止していたユニットの貴重なパール。
+ナクレと共に使用することで、新たなパーツの作成や壊れたモジュールの修復が可能になる。,Цінна перлина давно померлого юніта. 
+Комбінуючи з перламутром, з нею можна створювати нові деталі та ремонтувати зламані модулі,,Uzun zaman önce ölmüş bir birimin değerli incisi. 
+Sedeflerle birlikte yeni parçalar üretmek ve bozuk modülleri onarmak için kullanılabilir.
